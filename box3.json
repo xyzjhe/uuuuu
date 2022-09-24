@@ -29,11 +29,11 @@
 //"wallpaper": "https://agit.ai/wwz09/ubuntu/raw/branch/master/jpg/04.jpg",
 
 ## 直播
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3d3ejA5L1RYVC9hLnR4dA=="]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3d3ejA5L1RYVC9yYXcvYnJhbmNoL21hc3Rlci9hLnR4dA=="]}]}],
 
-"lives":[{"group":"redirect","channels":[{"name":"TV","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3d3ejA5L1RYVC9iLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"TV","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3d3ejA5L1RYVC9yYXcvYnJhbmNoL21hc3Rlci9iLnR4dA=="]}]}],
 
-//"lives":[{"group":"redirect","channels":[{"name":"iptv","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3d3ejA5L1RYVC9jLnR4dA=="]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"iptv","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3d3ejA5L1RYVC9yYXcvYnJhbmNoL21hc3Rlci9jLnR4dA=="]}]}],
 
 
 ##sites
