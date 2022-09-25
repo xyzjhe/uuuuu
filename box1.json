@@ -60,7 +60,7 @@
 {"key":"spider_IKan","name":" 🐞✨爱看(ijk播放器)","type": 3,"api": "csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lib","name":" 🐞🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":0,"quickSearch":1,"filterable":1},
 {"key": "csp_2BT","name": "🐞2BT(SP)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/wwz09/ubuntu/raw/branch/master/Jar/XC0915.jar"},
-{"key":"293视频","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP293","name":"2️⃣293(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"😸追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/wwz09/ubuntu/raw/branch/master/Jar/XC0915.jar"},
 {"key":"3EDY","name":"🗽3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/wwz09/ubuntu/raw/branch/master/Jar/XC0915.jar"},
 {"key":"hnzy","name":"🐂红牛资源(SP)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
