@@ -40,6 +40,8 @@
 
 https://gg.gg 
 
+https://xxooo.ml/
+
 https://77url.com 
 
 https://qiu.moe 
