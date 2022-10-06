@@ -89,7 +89,6 @@
 {"key": "少儿1","name": " 📙少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/wwz09/ubuntu/raw/branch/master/MaooXBXP/sejy.json"},
 {"key": "学堂0","name": " 📙学堂教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/wwz09/ubuntu/raw/branch/master/MaooXBXP/学堂.json"},
 {"key": "学堂","name": " 📙学堂教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/wwz09/ubuntu/raw/branch/master/MaooXBXP/xt.json"},
-{"key": "少儿0","name": " 📙教育","type": 3,"api": "csp_Bili", "searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/wwz09/ubuntu/raw/branch/master/MaooXBXP/ertong.json" },
 { "key": "学堂2", "name": " 📙小学学习", "type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/wwz09/ubuntu/raw/branch/master/MaooXBXP/xiaoxue.json" },
 { "key": "学堂3","name": " 📙初中学习","type": 3,"api": "csp_Bili","searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://agit.ai/wwz09/ubuntu/raw/branch/master/MaooXBXP/chuzhong.json" },
 { "key": "学堂4", "name": " 📙高中学习", "type": 3,"api": "csp_Bili", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://agit.ai/wwz09/ubuntu/raw/branch/master/MaooXBXP/gaozhong.json" },
