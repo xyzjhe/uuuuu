@@ -1,65 +1,14 @@
 {
-  "author": "takagen99",
-  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-  "homeUrl": "https://www.zxzjtv.com/",
-  "cateManual": {
-    "电影": "1",
-    "美剧": "2",
-    "韩剧": "3",
-    "日剧": "4",
-    "泰剧": "5",
-    "动漫": "6"
-  },
-  // Home Summary ================================================  
-  "homeVodNode": "//div[@class='stui-vodlist__box']",
-  "homeVodName": "/a/@title",
-  "homeVodId": "/a/@href",
-  "homeVodIdR": "/detail/(\\w+)",
-  "homeVodImg": "/a/@data-original",
-  "homeVodMark": "/a/span[@class='pic-text text-right']/text()",
-  // Category Summary ================================================    
-  "cateUrl": "https://www.zxzjtv.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-  "cateVodNode": "//ul[@class='stui-vodlist clearfix']/li/div[@class='stui-vodlist__box']",
-  "cateVodName": "/a/@title",
-  "cateVodId": "/a/@href",
-  "cateVodIdR": "/detail/(\\w+).html",
-  "cateVodImg": "/a/@data-original",
-  "cateVodMark": "/a/span[@class='pic-text text-right']/text()",
-  // Category Details ================================================    
-  "dtUrl": "https://www.zxzjtv.com/detail/{vid}.html",
-  "dtNode": "//div[@class='stui-pannel__bd']",
-  "dtName": "//div[@class='stui-content__thumb']/a/@title",
-  "dtImg": "//div[@class='stui-content__thumb']/a/img/@data-original",
-  "dtCate": "",
-  "dtYear": "",
-  "dtArea": "",
-  "dtActor": "//div[@class='stui-content__detail']/p[2]/text()",
-  "dtMark": "//div[@class='stui-content__detail']/p[4]/text()",
-  "dtDirector": "//div[@class='stui-content__detail']/p[3]/text()",
-  "dtDesc": "//span[@class='detail-sketch']/text()",
-  // Playlist =====================================================     
-  //  "dtFromNode": "//div[@class='stui-vodlist__head' and not(contains(text(),'猜你喜欢'))]",
-  //  "dtFromName": "//h3",    												// number must match
-  "dtFromNode": "//h3",
-  "dtFromName": "[substring-before(text(),'(')]",
-  "dtFromNameR": "(.+) \\(\\S+",
-  "dtUrlNode": "//ul[contains(@class,'stui-content__playlist clearfix')]", // number must match
-  "dtUrlSubNode": "/li/a",
-  "dtUrlId": "/@href",
-  "dtUrlIdR": "/video/(\\S+).html",
-  "dtUrlName": "/text()",
-  "playUrl": "https://www.zxzjtv.com/video/{playUrl}.html",
-  "playUa": "",
-  // Search Results ================================================         
-  "searchUrl": "https://www.zxzjtv.com/search/-------------.html?wd={wd}&submit=",
-  "scVodNode": "//div[@class='stui-vodlist__box']",
-  "scVodName": "/a/@title",
-  "scVodId": "/a/@href",
-  "scVodIdR": "/detail/(\\w+).html",
-  "scVodImg": "/a/@data-original",
-  "scVodMark": "/a/span[@class='pic-text text-right']/text()",
-  // Filters =======================================================
-  "filter": {
+    "title": "zxzj",
+    "author": "tx",
+    "Headers":"MOBILE_UA",
+    "PicNeedProxy":"0",
+    "homeContent":"1",
+    "firstpage": "1",
+    "class_url": "https://zxzj.vip/list/{cateId}/page/{catePg}.html",
+    "class_name": "电影&美剧&韩剧&日剧&泰剧&动漫",
+    "class_value": "1&2&3&4&5&6",
+    "filterdata": {
       "1": [
         {
           "key": "class",
@@ -113,18 +62,7 @@
             {"n": "2014","v": "2014"},
             {"n": "2013","v": "2013"},
             {"n": "2012","v": "2012"},
-            {"n": "2011","v": "2011"},
-            {"n": "2010","v": "2010"},
-            {"n": "2009","v": "2009"},
-            {"n": "2008","v": "2008"},
-            {"n": "2007","v": "2007"},
-            {"n": "2006","v": "2006"},
-            {"n": "2005","v": "2005"},
-            {"n": "2004","v": "2004"},
-            {"n": "2003","v": "2003"},
-            {"n": "2002","v": "2002"},
-            {"n": "2001","v": "2001"},
-            {"n": "2000","v": "2000"}
+            {"n": "2011","v": "2011"}
           ]
         }
       ],
@@ -321,5 +259,81 @@
           ]
         }
       ]
-    }
+    },
+    "cat_mode": "1",
+    
+    "cat_arr_rule": ".stui-vodlist__thumb&&a",
+    
+    "cat_title": "a&&title",
+    
+    "cat_url": "a&&href",
+    
+    "cat_pic": ".lazyload&&data-original",
+    
+    "cat_subtitle":".module-item-note&&Text",
+    
+    "cat_prefix": "https://zxzj.vip",
+    
+    "cat_suffix": "",
+    
+    "SHeaders":"MOBILE_UA",
+    
+    "search_url": "",
+    
+    "sea_PtBody":"",
+ 
+    "search_mode": "1",
+ 
+    "sea_arr_rule": ".stui-vodlist__thumb&&a",
+
+    "sea_is_jsoup":"1", 
+    
+    "sea_pic": "a&&data-original",
+ 
+    "sea_title": "a&&title",
+ 
+    "sea_url": "a&&href",
+    
+    "sea_subtitle":".pic-text&&Text",
+    
+    "search_prefix": "https://zxzj.vip",
+    
+    "search_suffix": "",
+    
+    "force_play": "0",
+    
+    "play_prefix": "https://live.52sf.ga/huya/",
+    
+    "play_suffix": "#isVideo=true#",
+    
+    "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online",
+            
+    "proj_actor": ".stui-content__detail&&p,1&&Text",
+    
+    "proj_plot": ".stui-content__detail&&p,-1&&Text",
+    
+    "tab_arr_rule": ".stui-pannel-box&&.stui-vodlist__head",
+ 
+    "tab_title": "Text",
+    
+    "list_arr_rule": "body&&.stui-content__playlist.clearfix",
+    
+    "epi_arr_rule": "li",
+    
+    "epi_title": "a&&Text",
+    
+    "epi_url": "a&&href",
+    
+    "epi_reverse": "0",
+    
+    "epiurl_prefix": "https://zxzj.vip",
+    "epiurl_suffix": "",
+    
+    
+ 
+    //分析网页源码中有<script type="text/javascript">var player_aaaa={"flag":"play","encrypt这种源码的链接解析
+    "Anal_MacPlayer":"0",
+    "ManualSniffer":"0",
+    "VideoFormat":".mp4#.m3u8#.flv",
+    "VideoFilter":".html#=http"
 }
