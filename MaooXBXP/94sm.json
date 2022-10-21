@@ -1,5 +1,5 @@
 {
-  "author":"Tangsan99999",
+  "author":"94神马",
   "ua": "",
   "homeUrl": "https://www.jiujiukanpian.com",
   "cateNode": "//ul[contains(@class,'navbar-nav')]/li/a[contains(@href, '.html') and not(contains(@href, '6'))]",

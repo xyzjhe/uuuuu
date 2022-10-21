@@ -1,4 +1,4 @@
-﻿{
+{
     "author":"20220522",
     "ua": "",
     "homeUrl": "https://www.chinady.ga/",
@@ -15,7 +15,7 @@
     "homeVodImg": "//div[contains(@class, 'module-item-pic')]/img/@data-src",
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "//div[contains(@class,'module-item-text')]/text()",
-    "cateUrl": "https://www.chinady.ga/vodshow/{cateId}-----------.html",
+    "cateUrl": "https://www.chinady.ga/v/{cateId}/{catePg}.html",
     "cateVodNode": "//div[contains(@class,'module-items')]/div[contains(@class,'module-item')]",
     "cateVodName": "//div[contains(@class, 'module-item-titlebox')]/a[contains(@class, 'module-item-title')]/@title",
     "cateVodId": "//div[contains(@class, 'module-item-titlebox')]/a/@href",
