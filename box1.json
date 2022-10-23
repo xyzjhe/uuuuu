@@ -38,15 +38,15 @@
 ##sites
 
 "sites": [
-{"key": "T4_douban","name": "影视推荐(首页)","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"厂长资源","name":"厂长资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/ubuntu/raw/branch/master/MaooXBXP/厂长资源(xBPQ).json"},
-{"key": "csp_Nmys","name": "农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/wwz09/ubuntu/raw/branch/master/MaooXBXP/Nmys.json"},
+{"key": "T4_douban","name": "💫影视推荐(首页)","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"厂长资源","name":"💫厂长资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/ubuntu/raw/branch/master/MaooXBXP/厂长资源(xBPQ).json"},
+{"key": "csp_Nmys","name": "💫农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/wwz09/ubuntu/raw/branch/master/MaooXBXP/Nmys.json"},
 {"key":"csp_Kunyu77","name":"💫酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"💫图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"💫快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ_spider","name":"💫看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/wwz09/ubuntu/raw/branch/master/Jar/1001.jar"},
-{"key":"csp_ZJMiao","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "3EDY","name": "💫❄3E飘花","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/wwz09/ubuntu/raw/branch/master/Jar/1002.jar"},
+{"key":"csp_ZJMiao","name":"💫追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "3EDY","name": "💫3E飘花","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/wwz09/ubuntu/raw/branch/master/Jar/1002.jar"},
 {"key":"csp_SP360","name":"💫360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"csp_SP293","name":"💫293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/wwz09/ubuntu/raw/branch/master/Jar/1001.jar"},
 {"key": "csp_DiDuan","name": "💫低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"https://agit.ai/wwz09/sub/raw/branch/master/Jar/1002.jar"},
