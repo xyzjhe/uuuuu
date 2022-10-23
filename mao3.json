@@ -61,7 +61,7 @@
 {"key":"csp_Auete","name":"🅰Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🆑Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LibVio","name":"🦁LibVio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-{{"key":"厂长资源","name":"厂长资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/sud/raw/branch/master/MaooXBXP/厂长资源(xBPQ).json"},
+{"key":"厂长资源","name":"厂长资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/sud/raw/branch/master/MaooXBXP/厂长资源(xBPQ).json"},
 {"key":"csp_Mjxq","name":"🌎美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🌸Anime动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Gitcafe","name":"📜小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/ALi.jar","ext":"3781469b13074e4cac1e0e7113e4fa20"},
