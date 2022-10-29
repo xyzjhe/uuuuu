@@ -57,7 +57,7 @@
 {"key":"Zjdr","name":"🥝追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🥝影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🥝在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CZSPP","name":"🥝厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1"},
+{"key":"csp_CZSPP","name":"🥝厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/神器.jar"},
 {"key":"csp_xp_libv","name":"🥝Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/libv.json"},
 {"key":"csp_xp_wmkankan","name":"🥝完美看看","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/wmkankan.json"},
 {"key":"csp_Dy555","name":"🥝555影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
