@@ -47,7 +47,7 @@
 {"key":"快看","name":"🐞快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "3EDY","name": "🐞3E飘花","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/duo.jar;md5;f6abd495ea859880f7e2d97010bae00d"},
 {"key":"csp_DiDuan","name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/duo.jar;md5;f6abd495ea859880f7e2d97010bae00d"},
-{"key":"Smdyy","name": "🐞神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/duo.jar;md5;f6abd495ea859880f7e2d97010bae00d"},
+{"key": "Smdyy","name": "🐞神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/duo.jar;md5;f6abd495ea859880f7e2d97010bae00d"},
 {"key":"csp_Bdys01","name":"🐞哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1"},
 {"key":"csp_剧荒","name":"🐞剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Lezhu_spider","name":"🐞乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
