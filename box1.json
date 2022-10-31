@@ -47,6 +47,7 @@
 {"key":"csp_fant","name":"🐞饭团影视","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/Yoursmile.jar"},
 {"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/Yoursmile.jar"},
 {"key":"csp_Cokemv","name":"🐞可乐影视","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/Yoursmile.jar"},
+{"key":"csp_Tkys","name": "🐞天空影院","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nmys","name":"🐞人民线路","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/Nmys.json"},
 {"key":"360_spider","name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"小苹果","name":"🐞苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
