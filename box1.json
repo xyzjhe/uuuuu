@@ -13,7 +13,7 @@
 "神器":"https://agit.ai/wwz09/Jar/raw/branch/master/神器.jar",
 "2925":"https://agit.ai/wwz09/Jar/raw/branch/master/2925.jar",
 "custom_spider1019":"https://agit.ai/wwz09/Jar/raw/branch/master/custom_spider1019.jar",
-"1001":"https://agit.ai/wwz09/Jar/raw/branch/master/1001.jar",
+"Yoursmile":"https://agit.ai/wwz09/Jar/raw/branch/master/Yoursmile.jar",
 "XYQPlugin_1010":"https://agit.ai/wwz09/Jar/raw/branch/master/XYQPlugin_1010.jar",
 "xc1029.jar":""
 },
@@ -38,9 +38,15 @@
 
 "sites":[
 {"key":"douban","name":"🐞影视推荐(首页)","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"douban","name":"🐞豆瓣影视荐片","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nmys","name":"🐞农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/Nmys.json"},
 {"key":"csp_77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐞图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppTT","name":"🐞TuTu影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Dy1010","name":"🐞双十影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_fant","name":"🐞饭团影视","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/Yoursmile.jar"},
+{"key":"csp_Cokemv","name":"🐞可乐影视","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"🐞人民线路","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/Nmys.json"},
 {"key":"360_spider","name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"小苹果","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
