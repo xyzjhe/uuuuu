@@ -38,7 +38,6 @@
 
 "sites":[
 {"key":"douban","name":"🐞影视推荐(首页)","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"douban","name":"🐞豆瓣影视荐片","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nmys","name":"🐞农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/Nmys.json"},
 {"key":"csp_77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐞图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
@@ -65,7 +64,7 @@
 {"key":"Zjdr","name":"🐞追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🐞影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"厂长资源","name":"🐞厂长🐞🐞","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/厂长资源(xBPQ).json"},
+{"key":"厂长资源","name":"🐞厂长影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/厂长资源(xBPQ).json"},
 {"key":"csp_xp_libv","name":"🐞Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/libv.json"},
 {"key":"csp_xp_wmkankan","name":"🐞完美看看","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/wmkankan.json"},
 {"key":"csp_Dy555","name":"🐞555影视","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
