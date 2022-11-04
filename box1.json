@@ -57,7 +57,7 @@
 {"key":"csp_xpath_数字影院","name":"🐞数字影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/数字影院.json"},
 {"key":"csp_xp_jbb","name":"🐞剧白白","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/剧白白.json"},
 {"key":"csp_xp_Gimy","name":"🐞Gimy影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/Gimy影院.json"},
-{"key": "csp_biubiu_骚火","name": "🐞骚火电影","type":3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/骚火电影.json"},
+{"key": "csp_biubiu_骚火","name": "🐞骚火影院","type":3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/骚火电影.json"},
 {"key":"csp_Nmys","name":"🐞人民线路","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/Nmys.json"},
 {"key":"360_spider","name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"小苹果","name":"🐞苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
