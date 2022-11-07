@@ -37,16 +37,7 @@
 ## sites ##
 
 "sites": [
-{
-	    "key":"T4_douban",
-	    "name":"❄豆瓣高分",
-	    "type":4,
-	    "api":"http://top.fuqizhishi.com/vod",
-	    "searchable":1,
-	    "quickSearch":1,
-	    "filterable":1
-	  },
-        {
+      {
             "key": "360_spider",
             "name": "❄360影视",
             "api": "csp_SP360",
