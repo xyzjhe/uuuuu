@@ -5,17 +5,17 @@
 
 
 {
-  "spider":"https://agit.ai/wwz09/Jar/raw/branch/master//2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
+  "spider":"https://agit.ai/wwz09/Jar/raw/branch/master/1105.jar;md5;7DB4DD5149F7FBB7EDAE0C6C6AABFDE6",
 
 
 "jars":
 {
-"神器":"https://agit.ai/wwz09/Jar/raw/branch/master/神器.jar",
+"1104":"https://agit.ai/wwz09/Jar/raw/branch/master/1104.jar",
 "2925":"https://agit.ai/wwz09/Jar/raw/branch/master/2925.jar",
-"custom_spider1019":"https://agit.ai/wwz09/Jar/raw/branch/master/custom_spider1019.jar",
+"cs":"https://agit.ai/wwz09/Jar/raw/branch/master/cs.jar",
 "Yoursmile":"https://agit.ai/wwz09/Jar/raw/branch/master/Yoursmile.jar",
-"XYQPlugin_1010":"https://agit.ai/wwz09/Jar/raw/branch/master/XYQPlugin_1010.jar",
-"2925.jar":""
+"jun97":"https://agit.ai/wwz09/Jar/raw/branch/master/jun97.jar",
+"1105.jar":""
 },
 
 ##主页壁纸
@@ -38,15 +38,6 @@
 
 "sites": [
 {
-            "key": "360_spider",
-            "name": "🌈360影视",
-            "api": "csp_SP360",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-      },
-      {
 	    "key":"T4_douban",
 	    "name":"🍀豆瓣高分",
 	    "type":4,
@@ -55,6 +46,16 @@
 	    "quickSearch":1,
 	    "filterable":1
 	  },
+        {
+            "key": "360_spider",
+            "name": "🌈360影视",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+      },
+      
       {
             "key": "csp_Kunyu77",
             "name": "🍁酷云七七",
@@ -74,7 +75,7 @@
             "filterable": 1,
             "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
         },
-        {
+//     {
       "key": "csp_Nmys",
       "name": "👨‍🌾农民影视",
       "type": 3,
@@ -104,7 +105,7 @@
       "filterable": 1,
       "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/duboku.json"
     },
-    {
+//    {
       "key": "csp_Nkdy",
       "name": "🎨南柯电影",
       "type": 3,
@@ -141,7 +142,7 @@
       "filterable": 1,
       "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/789ba.json"
     },
-    {
+//    {
       "key": "csp_XYQ_lu1",
       "name": "️🖥️电视直播",
       "type": 3,
@@ -151,7 +152,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/ningmeng.json"
     },
-    {
+//    {
       "key": "py_cctv",
       "name": "❤️爱央视PY",
       "type": 3,
@@ -209,7 +210,7 @@
       "filterable": 1,
       "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/极品影视.json"
     },
-    {
+//    {
       "key": "py_czspp",
       "name": "🏘️厂长(PY)",
       "type": 3,
@@ -228,7 +229,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+//    {
       "key": "csp_Ddys",
       "name": "🐞低端影视",
       "type": 3,
@@ -238,7 +239,7 @@
       "filterable": 1,
       "ext": "1cc92323700909e7d46623bc85b958d6"
     },
-    {
+//    {
       "key":"csp_Dy555",
       "name":"🥇555影视",
       "api":"csp_Dy555",
@@ -265,7 +266,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+//    {
       "key": "csp_Ysgc",
       "name": "🎬️影视工厂",
       "type": 3,
@@ -274,7 +275,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+//    {
       "key": "csp_Zxzj",
       "name": "🏠在线之家",
       "type": 3,
@@ -376,7 +377,7 @@
       "filterable": 1,
       "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
-    {
+//    {
       "key": "csp_xb_lib",
       "name": "🍲LIBVIO",
       "type": 3,
@@ -426,7 +427,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+//    {
       "key": "小熊",
       "name": "🐨小熊TV",
       "type": 3,
@@ -709,7 +710,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/Alist.json"
     },
-    {
+//    {
       "key": "csp_bendi",
       "name": "📂本地视频",
       "type": 3,
@@ -726,61 +727,6 @@
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext":"998c79f4f189435090049164d503e4e3"
-    },
-    {
-      "key": "找资源",
-      "name": "🔍找资源(仅搜索)",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"998c79f4f189435090049164d503e4e3"
-    },
-    {
-      "key": "upyunsou",
-      "name": "🌤UP云搜（仅搜索）",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0,
-      "ext":"998c79f4f189435090049164d503e4e3"
-    },
-    {
-      "key": "yisou",
-      "name": "🎯宜搜(仅搜索)",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0,
-      "ext":"998c79f4f189435090049164d503e4e3"
-    },
-    {
-      "key": "AliPS",
-      "name": "📀盘搜(仅搜索)",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"998c79f4f189435090049164d503e4e3"
-    },
-    {
-      "key": "push_agent",
-      "name": "📨推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
       "filterable": 1,
       "ext":"998c79f4f189435090049164d503e4e3"
     },
@@ -814,7 +760,7 @@
       "filterable": 1,
       "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
     },
-    {
+//    {
       "key": "csp_XYQHiker_氢视频",
       "name": "🌑氢视频",
       "type": 3,
@@ -1174,7 +1120,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/OmoFun%E5%8A%A8%E6%BC%AB.json"
     },
-    {
+//    {
       "key": "9E03",
       "name": "🎈9E03",
       "type": 3,
@@ -1184,7 +1130,7 @@
       "filterable": 1,
       "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
     },
-    {
+//    {
       "key": "北雁资源",
       "name": "🦆北雁资源",
       "type": 1,
@@ -1202,7 +1148,7 @@
         "动漫"
       ]
     },
-    {
+//    {
       "key": "小城",
       "name": "小城影视",
       "type": 3,
@@ -1256,7 +1202,7 @@
       "filterable": 0,
       "ext": "http://app.mmhkj.xyz/lvdou_api.php/v1.vod"
     },
-    {
+//    {
       "key": "QC 影视",
       "name": "🤠QC 影视",
       "type": 3,
@@ -1305,7 +1251,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
+//    {
       "key": "多多资源2",
       "name": "🥬多多资源",
       "type": 1,
@@ -1314,7 +1260,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
+//    {
       "key": "每天看看",
       "name": "🍌每天看看",
       "type": 1,
@@ -1332,7 +1278,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
+//    {
       "key": "考拉资源",
       "name": "🍈考拉资源",
       "type": 1,
@@ -1359,7 +1305,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
+//    {
       "key": "江湖官采",
       "name": "🍳江湖官采",
       "type": 1,
@@ -1368,7 +1314,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
+//    {
       "key": "土狗 360",
       "name": "🥒土狗 360",
       "type": 1,
@@ -1404,7 +1350,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
+//    {
       "key": "盘看影视",
       "name": "🥑盘看影视",
       "type": 1,
@@ -1431,7 +1377,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
+//    {
       "key": "铭轩影视",
       "name": "🍧铭轩影视",
       "type": 1,
@@ -1467,7 +1413,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
+//    {
       "key": "千寻时光",
       "name": "🍱千寻时光",
       "type": 1,
@@ -1476,7 +1422,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
+//    {
       "key": "MX 影院",
       "name": "🌭MX 影院",
       "type": 1,
