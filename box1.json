@@ -372,9 +372,7 @@
             "api": "csp_Lgyy",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/蓝光影院.json",
-            "jar":"https://agit.ai/wwz09/Jar/raw/branch/master/饭太硬.jar"
+            "filterable": 1
     },
     {
             "key": "Cokemv",
@@ -383,9 +381,7 @@
             "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/可乐影院.json",
-            "jar":"https://agit.ai/wwz09/Jar/raw/branch/master/饭太硬.jar"
+            "filterable": 1
     },
     {
       "key": "mjxq_spider",
