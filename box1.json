@@ -357,13 +357,33 @@
     },
     {
       "key": "csp_biubiu_剧白白-蓝光",
-      "name": "❄剧白白-蓝光(XB)",
+      "name": "❄剧白白(XB)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/剧白白-蓝光.json"
+    },
+    {
+            "key": "Lgyy",
+            "name": "❄蓝光影院",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://agit.ai/wwz09/Jar/raw/branch/master/饭太硬.jar"
+    },
+    {
+            "key": "Cokemv",
+            "name": "❄可乐影院",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://agit.ai/wwz09/Jar/raw/branch/master/饭太硬.jar"
     },
     {
       "key": "mjxq_spider",
