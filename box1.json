@@ -5,7 +5,7 @@
 
 
 {
-  "spider":"https://agit.ai/wwz09/Jar/raw/branch/master/1114.jar",
+  "spider":"https://agit.ai/wwz09/Jar/raw/branch/master/Yoursmile.jar",
 
 
 "jars":
@@ -15,7 +15,7 @@
 "cs":"https://agit.ai/wwz09/Jar/raw/branch/master/cs.jar",
 "Yoursmile":"https://agit.ai/wwz09/Jar/raw/branch/master/Yoursmile.jar",
 "jun97":"https://agit.ai/wwz09/Jar/raw/branch/master/1114.jar",
-"1114.jar":""
+"Yoursmile.jar":""
 },
 
 ##主页壁纸
@@ -97,19 +97,20 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "APPTT",
-      "name": "❄图图影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {"key":"csp_biubiu_干饭影视","name":"❄干饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/干饭影视.json"},
       {"key":"csp_biubiu_奈落影院","name":"❄奈落影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/奈落影院.json"},
       {"key":"csp_biubiu_六度TV","name":"❄六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/六度TV.json"},
       {"key":"csp_biubiu_花猫TV","name":"❄花猫影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/花猫TV.json"},
+      {"key":"csp_DiDuan","name":"❄低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
+      {"key":"Smdyy","name":"❄神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
+      {"key":"csp_Dy555","name":"❄️三五影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+      {"key":"csp_Auete","name":"❄奥特影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+      {"key":"csp_Lgyy","name":"❄蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+      {"key":"csp_剧荒","name":"❄剧荒影视","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch":1,"filterable":1},
+      {"key":"csp_Dy1010","name":"❄双十影院","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+      {"key":"csp_fant","name":"❄饭团影院","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+      
     {
       "key": "Kuaikan",
       "name": "❄快看影视",
