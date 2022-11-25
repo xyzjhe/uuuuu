@@ -37,6 +37,7 @@
 ## sites ##
 
 "sites": [
+      {"key":"default","name":"❄豆瓣推荐","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/douban.json"},
       {
             "key": "360_spider",
             "name": "❄360影视",
@@ -114,6 +115,10 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key":"csp_biubiu_干饭影视","name":"❄干饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/干饭影视.json"},
+      {"key":"csp_biubiu_奈落影院","name":"❄奈落影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/奈落影院.json"},
+      {"key":"csp_biubiu_六度TV","name":"六度TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/六度TV.json"},
+      {"key":"csp_biubiu_花猫TV","name":"花猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/花猫TV.json"},
     {
       "key": "Kuaikan",
       "name": "❄快看影视",
