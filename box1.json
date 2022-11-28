@@ -116,7 +116,8 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/wwz09/PY/raw/branch/master/py_czspp2.py"
+		"ext": "https://agit.ai/wwz09/PY/raw/branch/master/py_czspp2.py",
+		"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/0719.jar"
 	},
     {
       "key": "Kuaikan",
