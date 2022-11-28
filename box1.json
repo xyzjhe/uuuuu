@@ -37,7 +37,7 @@
 ## sites ##
 
 "sites": [
-             {"key":"dr_豆瓣","name":"❄豆瓣荐片","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/豆瓣.js"},
+             {"key":"douban","name":"❄豆瓣荐片","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
       {
             "key": "360_spider",
             "name": "❄360影视",
