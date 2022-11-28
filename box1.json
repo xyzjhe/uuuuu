@@ -108,7 +108,7 @@
       {"key":"csp_剧荒","name":"❄剧荒影视","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch":1,"filterable":1},
       {"key":"csp_Dy1010","name":"❄双十影院","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
       {"key":"csp_fant","name":"❄饭团影院","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-      {"key":"csp_CZSPP","name":" ❄厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"},
+      {"key":"csp_CZSPP","name":" ❄厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/Yoursmile.jar"},
     {
       "key": "Kuaikan",
       "name": "❄快看影视",
