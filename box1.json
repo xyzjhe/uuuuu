@@ -1327,8 +1327,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    }
-    
+    },
+   ] 
 
     "parses": [
         {
@@ -1788,5 +1788,6 @@
         "qiu.xixiqiu.com",
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
-    
+    ]
+
 }
