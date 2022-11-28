@@ -167,16 +167,6 @@
       "filterable": 1
     },
     {
-      "key": "搭配",
-      "name": "❄多多搭配",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/duodapei.json"
-    },
-    {
       "key": "csp_XBPQ极品影视",
       "name": "❄极品影视",
       "type": 3,
