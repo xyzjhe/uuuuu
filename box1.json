@@ -108,6 +108,7 @@
       {"key":"csp_剧荒","name":"❄剧荒影视","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch":1,"filterable":1},
       {"key":"csp_Dy1010","name":"❄双十影院","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
       {"key":"csp_fant","name":"❄饭团影院","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+	  {"key":"AppTT","name":"❄图图影院","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
     {
       "key": "Kuaikan",
       "name": "❄快看影视",
