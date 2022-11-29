@@ -78,7 +78,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/filmMr.json"
+      "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/filmMr.json",
+	  "jar":"https://agit.ai/wwz09/Jar/raw/branch/master/饭太硬.jar"
     },
     {
       "key": "csp_xpath_独播库",
