@@ -38,25 +38,25 @@
 ## sites ##
 
 "sites": [
-             {"key":"douban","name":"❄豆瓣荐片","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+      {"key":"douban","name":"❄豆瓣荐片","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
       {
-            "key": "360_spider",
-            "name": "❄360影视",
-            "api": "csp_SP360",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
+       "key": "360_spider",
+       "name": "❄360影视",
+       "api": "csp_SP360",
+       "type": 3,
+       "filterable": 1,
+       "quickSearch": 1,
+       "searchable": 1
       },
       {"key":"csp_EEEDY","name":"❄3E飘花影视","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
       {
-            "key": "csp_Kunyu77",
-            "name": "❄酷云七七",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+      "key": "csp_Kunyu77",
+      "name": "❄酷云七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
      },
     {
       "key": "csp_xBPQ_电影先生",
@@ -88,7 +88,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
     {"key":"csp_biubiu_干饭影视","name":"❄干饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/干饭影视.json"},
       {"key":"csp_biubiu_奈落影院","name":"❄奈落影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/奈落影院.json"},
       {"key":"csp_biubiu_六度TV","name":"❄六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/六度TV.json"},
