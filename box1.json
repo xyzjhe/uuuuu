@@ -49,6 +49,7 @@
        "searchable": 1
       },
       {"key":"csp_EEEDY","name":"❄3E飘花影视","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
+      {"key":"csp_AppTT","name":"❄图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
       {
       "key": "csp_Kunyu77",
       "name": "❄酷云七七",
