@@ -59,17 +59,6 @@
       "filterable": 1
      },
     {
-      "key": "csp_xBPQ_电影先生",
-      "name": "❄电影先生",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/filmMr.json",
-	    "jar":"https://agit.ai/wwz09/Jar/raw/branch/master/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
-    },
-    {
       "key": "csp_xpath_独播库",
       "name": "❄独播库",
       "type": 3,
@@ -926,16 +915,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"
-    },
-    {
-      "key": "小强影迷",
-      "name": "❄小强影迷",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json"
     },
     {
       "key": "人人影视",
