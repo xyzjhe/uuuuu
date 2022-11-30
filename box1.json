@@ -98,9 +98,10 @@
       {"key":"csp_剧荒","name":"❄剧荒影视","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch":1,"filterable":1},
       {"key":"csp_Dy1010","name":"❄双十影院","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
       {"key":"csp_fant","name":"❄饭团影院","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-	    
-      {"key":"csp_xp_99ys","name":"❄久久影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/99ys.json"}
-      {"key":"csp_xp_wnvod","name":"❄万能影视","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/wnvod.json"},
+	    {"key":"csp_xp_bttwoo","name":"❄两个BT影院","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/bttwoo.json"},
+	    {"key":"csp_xp_nmys","name":"❄农民影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/nmys2.json"},
+      {"key":"csp_xp_99ys","name":"❄久久影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/99ys.json"}
+      {"key":"csp_xp_wnvod","name":"❄万能影视","type":3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/wnvod.json"},
       {"key":"csp_xp_789kp","name":"❄789影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/789kp.json"},
       {"key":"csp_xp_lkvod","name":"❄耐看点播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/lkvod2.json"},
       {"key":"csp_xp_348z","name":"❄348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/348z.json"},
