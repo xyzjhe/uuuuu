@@ -48,7 +48,7 @@
             "quickSearch": 1,
             "searchable": 1
       },
-      
+      {"key":"csp_EEEDY","name":"❄3E飘花影视","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
       {
             "key": "csp_Kunyu77",
             "name": "❄酷云七七",
@@ -58,18 +58,6 @@
             "quickSearch": 1,
             "filterable": 1
      },
-        
-    {
-      "key": "csp_Nmys",
-      "name": "❄农民影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/Nmys.json",
-	  "jar":"https://agit.ai/wwz09/Jar/raw/branch/master/饭太硬.jar"
-    },
     {
       "key": "csp_xBPQ_电影先生",
       "name": "❄电影先生",
@@ -111,7 +99,8 @@
       {"key":"csp_剧荒","name":"❄剧荒影视","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch":1,"filterable":1},
       {"key":"csp_Dy1010","name":"❄双十影院","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
       {"key":"csp_fant","name":"❄饭团影院","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-	  {"key":"AppTT","name":"❄图图影院","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
+	  {"key":"csp_xp_bttwoo","name":"❄两个BT影院","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/bttwoo.json"},
+	  {"key":"csp_xp_nmys","name":"❄农民影视","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/nmys2.json"},
     {
       "key": "Kuaikan",
       "name": "❄快看影视",
@@ -169,17 +158,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_XBPQ极品影视",
-      "name": "❄极品影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/极品影视.json",
-      "jar":"https://agit.ai/wwz09/Jar/raw/branch/master/duo114.jar"
-    },
+    {"key":"csp_xp_99ys","name":"❄久久影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/99ys.json"}
+	{"key":"csp_xp_wnvod","name": "❄万能影视","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master//wnvod.json"},
+	{"key":"csp_xp_789kp","name":"❄789影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/789kp.json"},
+	{"key":"csp_xp_lkvod","name":"❄耐看点播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/lkvod2.json"},
+	{"key":"csp_xp_348z","name":"❄348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/348z.json"},
+	{"key":"csp_xp_tjyy","name":"❄奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/huigutongying.json"},
+	{"key":"csp_xp_yingba","name":"❄电影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/yingba.json"},
+	{"key":"csp_app_gotka","name":"❄速播影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
+	{"key":"csp_xbb_稀饭影视","name":"❄稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/稀饭影视.json"},
     {
       "key": "csp_剧荒",
       "name": "❄剧荒TV",
