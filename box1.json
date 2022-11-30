@@ -157,7 +157,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"csp_xp_99ys","name":"❄久久影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/99ys.json"}
+  {"key":"csp_xp_99ys","name":"❄久久影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/99ys.json"}
 	{"key":"csp_xp_wnvod","name": "❄万能影视","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master//wnvod.json"},
 	{"key":"csp_xp_789kp","name":"❄789影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/789kp.json"},
 	{"key":"csp_xp_lkvod","name":"❄耐看点播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/lkvod2.json"},
