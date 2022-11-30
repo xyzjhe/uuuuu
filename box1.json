@@ -88,7 +88,7 @@
       {"key":"csp_剧荒","name":"❄剧荒影视","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch":1,"filterable":1},
       {"key":"csp_Dy1010","name":"❄双十影院","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
       {"key":"csp_fant","name":"❄饭团影院","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-	    {"key":"csp_xp_bttwoo","name":"❄两个BT影院","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/bttwoo.json"},
+	    {"key":"csp_xp_bttwoo","name":"❄二BT影院","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/bttwoo.json"},
 	    {"key":"csp_xp_nmys","name":"❄农民影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/nmys2.json"},
       {"key":"csp_xp_99ys","name":"❄久久影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/99ys.json"},
       {"key":"csp_xp_wnvod","name":"❄万能影视","type":3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/wnvod.json"},
@@ -130,7 +130,7 @@
     },
     {
       "key": "csp_xBPQ_真不卡",
-      "name": "❄真不卡XB",
+      "name": "❄不卡影院",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -152,15 +152,6 @@
       "name": "❄小苹果",
       "type": 3,
       "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_剧荒",
-      "name": "❄剧荒TV",
-      "type": 3,
-      "api": "csp_Juhuang",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -836,16 +827,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "http://v.i7yc.cn/api.php/v1.vod"
-    },
-    {
-      "key": "万能影院",
-      "name": "❄万能影院",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"
     },
     {
       "key": "木子看剧",
