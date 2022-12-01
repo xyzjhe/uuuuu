@@ -1,15 +1,15 @@
 # 配置地址 简易设定流程
-// 我的 --> 设置 -->  配置地址 --> 请输入 https://agit.ai/wwz09/ubuntu/raw/branch/master/box1.json--> 确定
+// 我的 --> 设置 -->  配置地址 --> 请输入 https://agit.ai/wwz09/ubuntu/raw/branch/master/test.json--> 确定
 
 
 
 
 {
 
- "spider":"https://agit.ai/wwz09/Jar/raw/branch/master/zy.jar",
+ "spider":"https://agit.ai/wwz09/Jar/raw/branch/master/1130.jar",
 
 
-
+//"spider":"https://agit.ai/wwz09/Jar/raw/branch/master/zy.jar",
 //"spider":"https://agit.ai/wwz09/Jar/raw/branch/master/ali.jar",
 //"spider":"https://agit.ai/wwz09/Jar/raw/branch/master/2925.jar",
 //"spider":"https://agit.ai/wwz09/Jar/raw/branch/master/cs.jar",
