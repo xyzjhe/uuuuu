@@ -7,10 +7,10 @@
 {
 
  "spider":
-//"https://agit.ai/wwz09/Jar/raw/branch/master/1130.jar",
+"https://agit.ai/wwz09/Jar/raw/branch/master/1130.jar",
 //"spider":"https://agit.ai/wwz09/Jar/raw/branch/master/zy.jar",
 //"spider":"https://agit.ai/wwz09/Jar/raw/branch/master/ali.jar",
-"spider":"https://agit.ai/wwz09/Jar/raw/branch/master/2925.jar",
+//"spider":"https://agit.ai/wwz09/Jar/raw/branch/master/2925.jar",
 //"spider":"https://agit.ai/wwz09/Jar/raw/branch/master/cs.jar",
 //"spider":"https://agit.ai/wwz09/Jar/raw/branch/master/Yoursmile.jar",
 //"spider":"https://agit.ai/wwz09/Jar/raw/branch/master/1123.jar",
@@ -257,7 +257,8 @@
 			"name": "dns_cache_timeout",
 			"value": "600000000"
 		}]
-	}, {
+	},
+	 {
 		"group": "硬解码",
 		"options": [{
 			"category": 4,
