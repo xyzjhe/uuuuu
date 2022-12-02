@@ -70,7 +70,6 @@
 {"key":"世界杯","name":"❄一起看影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/737/ts.jar?sign=RyqCdJ4fn0AEjlN5ZlYqm02vO0V_0GIOeRmCBFekX7o%3D%3A0"},
 {"key":"csp_xbb_Nike影视","name":"❄Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/Nike影视网.json"},
 {"key":"csp_xbb_金眼影视","name":"❄金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/金眼影视.json"},
-{"key":"csp_xbb_奇优影院ns","name":"❄奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/奇优影院ns.json"},
 {"key":"csp_xp_99ys","name":"❄久久影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/99ys.json"},
 {"key":"csp_xp_wnvod","name":"❄万能影视","type":3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/wnvod.json"},
 {"key":"csp_xp_789kp","name":"❄789影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/789kp.json"},
