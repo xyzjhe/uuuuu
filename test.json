@@ -27,7 +27,7 @@
 # 直播
 //"lives":[{"group":"redirect","channels":[{"name":"a","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3d3ejA5L1RYVC9yYXcvYnJhbmNoL21hc3Rlci9hLnR4dA=="]}]}],
 
-"lives":[{"group":"redirect","channels":[{"name":"b","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3d6MDkvd2ViL21haW4vYi50eHQ/dG9rZW49R0hTQVQwQUFBQUFBQjNWRklYSU1ESVNMRUhQMlFPMkgzQU1ZNE9BN0lB"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"b","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby93d3owOS93ZWIvbWFpbi9iLnR4dD90b2tlbj1HSFNBVDBBQUFBQUFCM1ZGSVhJTURJU0xFSFAyUU8ySDNBTVk0T0E3SUE="]}]}],
 
 //"lives":[{"group":"redirect","channels":[{"name":"c","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3d3ejA5L1RYVC9yYXcvYnJhbmNoL21hc3Rlci9jLnR4dA=="]}]}],
 
