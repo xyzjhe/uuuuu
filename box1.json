@@ -93,7 +93,7 @@
 {"key":"csp_xp_yingba","name":"❄电影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/yingba.json"},
 {"key":"csp_app_gotka","name":"❄速播影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
 {"key":"csp_xbb_稀饭影视","name":"❄稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/稀饭影视.json"},
-{"key":"香瓜影视","name":"❄香瓜影视","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"香瓜影视","name":"❄香瓜影视","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/zy.jar"},
 {"key":"bdys","name":"❄哔嘀影视","type": 3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/Bdys.json"},
 {"key":"AppTT","name":"❄图图资源","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/737/ts.jar?sign=RyqCdJ4fn0AEjlN5ZlYqm02vO0V_0GIOeRmCBFekX7o%3D%3A0"},
 
