@@ -23,7 +23,6 @@
 //"wallpaper": "https://agit.ai/wwz09/JPG/raw/branch/master/03.jpg",
 //"wallpaper": "https://agit.ai/wwz09/JPG/raw/branch/master/04.jpg",
 
-"name":"🍀豆瓣高分",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"a","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3d3ejA5L1RYVC9yYXcvYnJhbmNoL21hc3Rlci9hLnR4dA=="]}]}],
