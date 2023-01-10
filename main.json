@@ -97,7 +97,7 @@
 {"key":"csp_xbb_稀饭影视","name":"❄稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/稀饭影视.json"},
 {"key":"香瓜影视","name":"❄香瓜影视","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://agit.ai/wwz09/Jar/raw/branch/master/zy.jar"},
 {"key":"bdys","name":"❄哔嘀影视","type": 3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/Bdys.json"},
-{"key":"AppTT","name":"❄图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1", “filterable”：“1”，“ext”：“110c922de7d69804467fb83d3bb664b5”，“jar”：“https://agit.ai/wwz09/Jar/raw/branch/master/ts.jar”}，
+{"key":"AppTT","name":"❄图图影视","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1, "filterable":1，"ext"："110c922de7d69804467fb83d3bb664b5"，"jar"："https://agit.ai/wwz09/Jar/raw/branch/master/ts.jar"}，
 
 //动漫
 {"key": "动漫直链","name": "❄动漫直链","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/动漫直链.json"},
