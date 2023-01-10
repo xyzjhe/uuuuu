@@ -82,6 +82,7 @@
 {"key":"csp_xBPQ_爱看","name":"❄爱看影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/爱看.json"},
 {"key":"csp_xBPQ_胖虎","name":"❄胖虎影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/胖虎.json"},
 {"key":"csp_xBPQ_鸭奈飞","name":"❄鸭奈飞影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/naifei.json"},
+{"key":"csp_Auete","name":"❄奥特影院","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_素白白","name":"❄素白白影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/素白白.json"}, 
 {"key":"csp_xbb_Nike影视","name":"❄Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/Nike影视网.json"},
 {"key":"csp_xbb_金眼影视","name":"❄金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wwz09/MaooXBXP/raw/branch/master/金眼影视.json"},
