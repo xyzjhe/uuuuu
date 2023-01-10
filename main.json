@@ -45,7 +45,7 @@
 {"key":"csp_Bd","name":"❄哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Zjdr","name":"❄追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"BuLei","name":"❄布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_panghu","name":"❄胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1 }
+{"key":"csp_panghu","name":"❄胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1 },
 {"key":"csp_AppTT","name":"❄图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
 {"key":"csp_Xinsj","name":"❄新视觉影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"❄爱奇艺影视","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
