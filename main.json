@@ -271,47 +271,46 @@
 
 {
 		"name": "Json聚合",
-		“类型”：3，
-		“网址”：“演示”
+		"type": 3,
+		"url": "Demo"
 	}, {
-		"name": "网络聚合",
-		“类型”：3，
-		“网址”：“网络”
+		"name": "Web聚合",
+		"type": 3,
+		"url": "Web"
 	}, {
-		“名称”：“RX2”，
-		“类型”：1，
+		"name": "rx2",
+		"type": 1,
 		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
 	}, {
 		"name": "星辰云",
-		“类型”：1，
+		"type": 1,
 		"url": "https://json.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=",
-		“标题”：{
-			“用户代理”：“Mozilla/5.0”
+		"header": {
+			"User-Agent": "Mozilla/5.0"
 		}   
 	}, {
 		"name": "万年魂环",
-		“类型”：1，
+		"type": 1,
 		"url": "https://jiexi.parses.repl.co/api.php?url="
 	}, {
-		"name": "刚走过",
-		“类型”：1，
+		"name": "刚刚走过",
+		"type": 1,
 		"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
 	}, {
-		“名称”：“bozrc”，
-		“类型”：0，
+		"name": "bozrc",
+		"type": 0,
 		"url": "https://jx.bozrc.com:4433/player/?url=",
-		“分机”：{
-			"flag": ["qq","腾讯","企鹅","爱奇艺","奇艺","爱奇艺","奇艺","优酷","优酷","优酷","sohu ","搜狐","搜狐","乐视","乐视","乐视","mgtv","芒果","芒果","CL4K","人人米","ltnb","bilibili", “1905”，“西瓜”]
+		"ext": {
+			"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]
 		}    
 	}, {
 		"name": "未知",
-		“类型”：0，
+		"type": 0,
 		"url": "https://h5.freejson.xyz/player/?url=",
-		“分机”：{
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "乐视", "乐视" ", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
 	},
-
 {"name": "淘电影","type": 1,"url": "https://jx.vodjx.top/vip/?url="},
 {"name": "维多","type": 1,"url": "https://jx.ivito.cn/?url="},
 {"name": "云端","type": 1,"url": "https://sb.5gseo.net/?url="},
