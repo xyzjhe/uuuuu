@@ -35,17 +35,7 @@
 ## sites ##
 
 "sites": [
-{
-            "key": "js豆瓣1",
-            "name": "❄豆瓣首页1",
-            "type": 3,
-            "api": "https://agit.ai/wwz09/MaooXBXP/src/branch/master/js/lib/drpy.min.js",
-            "ext": "https://agit.ai/wwz09/MaooXBXP/src/branch/master/js/js/drpy.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-{"key":"dr_豆瓣","name":"❄豆瓣首页2","type":3,"api":"https://agit.ai/wwz09/MaooXBXP/src/branch/master/js/js/drpy2.min.js","ext": "https://agit.ai/wwz09/MaooXBXP/src/branch/master/js/js/js_drpy.js","searchable":0,"quickSearch":0,"filterable":0},		
+		
 {"key":"csp_77","name":"❄七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"SP360","name":"❄360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1 },
 {"key":"小苹果","name":"❄苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
