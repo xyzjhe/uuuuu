@@ -65,7 +65,7 @@
 {"key":"csp_Cokemv","name":"❄可乐影视","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"❄在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"❄Lib影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_XBPQ厂长资源","name": "❄厂长资源","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/厂长资源.json"},
+{"key":"csp_Czsapp","name":"❄厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy","name":"❄神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 { "key": "csp_Nkdy","name": "❄南柯电影","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_xpath_789kp","name": "❄数字影院","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/wwz09/MaooXBXP/raw/branch/master/789ba.json"},
