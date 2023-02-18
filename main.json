@@ -400,6 +400,15 @@
  {"name":"诺诺","type":0,"url":"https://www.ckmov.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜","1905","ltnb","renrenmi","rx","rongxing"]}},
 {"name":"M1907","type":0,"url":"https://z1.m1907.top/?jx=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜","1905","ltnb","renrenmi","rx","rongxing"]}},
 {"name":"百域阁","type":0,"url":"https://z1.m1907.top/?jx=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜","1905","ltnb","renrenmi","rx","rongxing"]}},
+{"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+{"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
+{"name":"txcgb","type":0,"url":"http://yy.freeee.ml/jx/player/777player/?url="},
+{"name":"三维空间","type":0,"url":"http://txcgb.3vkj.club/player/777/?url="},
+{"name":"热铁盒","type":0,"url":"https://txcgb.rth1.one/777/?url="},
+{"name":"小狼云","type":0,"url":"https://jx.xiaolangyun.com/?url="},
+{"name":"无名","type":0,"url":"https://www.administratorw.com/video.php?url="},
+{"name":"解析la","type":0,"url":"http://api.jiexi.la/?url="},
+{"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"多维","type":0,"url":"http://jx.ivito.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜","1905","ltnb","renrenmi","rx","rongxing"]}} 
     ],
     "flags": [
