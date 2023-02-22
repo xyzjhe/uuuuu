@@ -43,7 +43,7 @@
 {"key":"快看影视","name":" 🦇快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppTT","name":"🦇图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1" ,"filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./JAR/cs.jar"},
 {"key":"csp_Bd","name":" 🦇哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nkdy","name":" 🦇耐看影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xBPQ_98影院","name":"🦇98影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/98影院.json"},
 {"key":"BuLei","name":" 🦇布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":" 🦇影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_厂长资源","name":"🦇厂长资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1," filterable":1,"ext":"./MaooXBXP/厂长资源.json"},
