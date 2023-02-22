@@ -41,7 +41,7 @@
 {"key":"Lezhu_","name":" 🦇乐猪影视","api": "csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
 {"key":"csp_Bttoo","name":" 🦇BT影视","type": 3,"api": "csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看影视","name":" 🦇快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AppTT","name":"🦇画图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1" ,"filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./JAR/cs.jar"},
+{"key":"AppTT","name":"🦇图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1" ,"filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./JAR/cs.jar"},
 {"key":"csp_Bd","name":" 🦇哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":" 🦇耐看影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"BuLei","name":" 🦇布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
