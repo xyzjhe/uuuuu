@@ -70,7 +70,7 @@
 {"key":"csp_xBPQ_追剧啦","name":" 🦇追剧影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/追剧啦.json"},
 {"key":"霹雳影视","name":" 🦇霹雳影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/霹雳影视.json"},
 {"key":"Smdyy","name":" 🦇神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xBPQ_91影院","name":"🦇91影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1 "ext":"./MaooXBXP/91影院.json"},
+{"key":"csp_xBPQ_91影院","name":"🦇91影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1, "ext":"./MaooXBXP/91影院.json"},
 {"key": "csp_xpath_789kp","name": " 🦇数字影院","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./MaooXBXP/789ba.json"},
 {"key":"csp_Nmys","name":" 🦇农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/Nmys.json"},
 {"key":"csp_Auete","name":" 🦇奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
