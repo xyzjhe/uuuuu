@@ -34,7 +34,7 @@
 ## sites ##
 
 "sites": [
-{"key":"T4_douban","name":"🦇影视推荐影视","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_douban","name":"🦇影视推荐","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"🦇爱奇艺影视","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mgtv","name":"🦇芒果TV影视","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"🦇腾讯视频影视","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
@@ -77,7 +77,7 @@
 {"key":"csp_xBPQ_HOHOTV","name":"🦇HOHOTV影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/HOHOTV.json"},
 {"key":"csp_xBPQ_大豆网","name":"🦇大豆网影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/大豆网.json"},
 {"key":"csp_xBPQ_七小时影院","name":"🦇七小时影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/七小时影院.json"},
-{"key":"csp_xBPQ_苹果电影网","name":"🦇苹果电影网影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/苹果电影网.json"},
+{"key":"csp_xBPQ_苹果电影网","name":"🦇苹果影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/苹果电影网.json"},
 {"key":"csp_xBPQ_低端影视","name":"🦇低端影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/低端影视.json"},
 {"key":"csp_xBPQ_厂长资源","name":"🦇厂长资源影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/厂长资源.json"},
 {"key":"csp_xBPQ_乐鱼影视","name":"🦇乐鱼影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/乐鱼影视.json"},
@@ -108,7 +108,7 @@
 "ext":"./MaooXBXP/UM影院.json"},
 {"key":"csp_xBPQ_人人影视","name":"🦇人人影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/人人影视.json"},
 {"key":"csp_xBPQ_神马影院","name":"🦇神马影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/神马影院.json"},
-{"key":"csp_xBPQ_Nike影视网","name":"🦇Nike影视网影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/Nike影视网.json"},
+{"key":"csp_xBPQ_Nike影视网","name":"🦇Nike影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/Nike影视网.json"},
 {"key":"csp_xBPQ_HDIK","name":"🦇HDIK影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/HDIK.json"},
 
 {"key":"csp_xBPQ_爱看影视","name":"🦇爱看影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/爱看影视.json"},
@@ -120,7 +120,7 @@
 {"key":"csp_xBPQ_干饭影视","name":"🦇干饭影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/干饭影视.json"},
 {"key":"csp_xBPQ_真不卡影院","name":"🦇真不卡影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/真不卡影院.json"},
 {"key":"csp_xBPQ-饭团影院","name":"🦇饭团影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/饭团影院.json"},
-{"key":"csp_xBPQ-饭团影视HD","name":"🦇饭团影视HD影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/饭团影视HD.json"},
+{"key":"csp_xBPQ-饭团影视HD","name":"🦇饭团HD影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/饭团影视HD.json"},
 {"key":"csp_xBPQ_片吧影院","name":"🦇片吧影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/片吧影院.json"},
 
 
