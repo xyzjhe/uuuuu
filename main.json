@@ -185,7 +185,7 @@
 {"key":"sq_csp_Dm84","name":"🦇动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/vod.jar"},
 {"key":"sq_csp_Anime1","name":"🦇日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./JAR/vod.jar"},
 {"key":"sq_csp_Ying","name":"🦇樱花动漫","type":3,"api":"csp_Ying","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/vod.jar"},
-{"key":"sq_csp_Ysj","name":"🦇异界动漫","type":3,"api":"csp_Ysj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/vod.jar"},
+
 
 //音乐
 {"key":"csp_xpath_kuqimv","name":" 🦇酷奇MV影视","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
