@@ -45,6 +45,7 @@
 {"key":"csp_Nmys","name":"🦇农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/农民影视.json"},
 {"key":"Czsapp","name":"🦇厂长资源影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"./JAR/cs.jar"},
 {"key":"Cokemv","name":"🦇Cokemv影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70","jar":"./JAR/cs.jar"},
+{"key":"csp_XYQBiu_乐猪TV","name":"乐猪TV〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/乐猪TV.json"},
 {"key":"csp_LiteApple","name":"🦇小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP2345","name":"🦇2345影视","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BuLei","name":"🦇布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
