@@ -182,18 +182,21 @@
 
 
 //动漫
-{"key": "动漫直链","name": " 🦇动漫直链影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./MaooXBXP/动漫直链.json"},
-{"key": "csp_biubiu_风车动漫","name": " 🦇风车动漫影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./MaooXBXP/风车动漫.json"},
-{"key":"csp_Dm84","name":" 🦇动漫巴士影视","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"小鸟动漫","name":" 🦇小鸟动漫影视","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"sq_csp_Dm84","name":"🦇动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/vod.jar"},
+{"key":"sq_csp_Anime1","name":"🦇日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./JAR/vod.jar"},
+{"key":"sq_csp_Ying","name":"🦇樱花动漫","type":3,"api":"csp_Ying","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/vod.jar"},
+{"key":"sq_csp_Ysj","name":"🦇异界动漫","type":3,"api":"csp_Ysj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/vod.jar"},
 
 //音乐
 {"key":"csp_xpath_kuqimv","name":" 🦇酷奇MV影视","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
 {"key":"csp_xpath_A33","name":" 🦇MTV影视","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
 
 //学习
-{"key": "儿童","name": " 🦇儿童乐园影视","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./MaooXBXP/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
-{"key": "学习","name":" 🦇学习园地影视","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./MaooXBXP/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
+{"key":"sq_幼儿乐园","name":"📚幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./MaooXBXP/幼儿乐园.json","jar":"./JAR/vod.jar"},
+{"key":"sq_少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./MaooXBXP/少儿教育.json","jar":"./JAR/vod.jar"},
+{"key":"sq_小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./MaooXBXP/小学课堂.json","jar":"./JAR/vod.jar"},
+{"key":"sq_初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./MaooXBXP/初中课堂.json","jar":"./JAR/vod.jar"},
+{"key":"sq_高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./MaooXBXP/高中课堂.json","jar":"./JAR/vod.jar"},
 {"key": "软件","name": " 🦇软件教程影视","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./MaooXBXP/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
 {"key": "美食","name": " 🦇美食合集影视","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./MaooXBXP/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
 {"key": "csp_biubiu_ting","name": " 🦇听书网影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./MaooXBXP/tingshu.json"},
