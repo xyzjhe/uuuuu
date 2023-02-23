@@ -89,7 +89,7 @@
 {"key":"csp_xBPQ_核桃影院","name":"🦇核桃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/核桃影院.json"},
 {"key":"csp_xBPQ_UM影院","name":"🦇UM影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/UM影院.json"},
 {"key":"csp_xBPQ_人人影视","name":"🦇人人影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/人人影视.json"},
-{"key":"csp_xBPQ_神马影院","name":"🦇神马影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXBXP/神马影院.json"},
+{"key":"csp_xBPQ_神马影院","name":"🦇神马影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXBXP/神马影院.json","jar":"./JAR/xo.txt"},
 {"key":"csp_xBPQ_Nike影视网","name":"🦇Nike影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/Nike影视网.json"},
 {"key":"csp_xBPQ_HDIK","name":"🦇HDIK影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/HDIK.json"},
 {"key":"csp_xBPQ_爱看影视","name":"🦇爱看影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/爱看影视.json"},
