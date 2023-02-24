@@ -39,7 +39,7 @@
 {"key":"csp_Mgtv","name":"🦇芒果TV影视","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"🦇腾讯视频影视","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"🦇360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Tkys","name":"🦇空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Tkys","name":"🦇天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppTT","name":"🦇图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./JAR/cs.jar"},
 {"key":"csp_Kunyu77","name":"🦇七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"🦇农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/农民影视.json"},
