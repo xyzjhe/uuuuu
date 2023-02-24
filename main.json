@@ -316,9 +316,9 @@
 		{ "name" : "冰豆" , "type" : 0 , "url" : " https://api.qianqi.net/vip/?url= " },
 		{ "name" : "迪奥" , "type" : 0 , "url" : " https://123.1dior.cn/?url= " },
 		{ "name" : " CK " , "type" : 0 , "url" : " https://www.ckplayer.vip/jiexi/?url= " },
-		{ “名称”：“ ckmov ”，“类型”：0，“url”：“ https://www.ckmov.vip/api.php?url= ” }，
+		
 		{ "name" : " playerjy/B站" , "type" : 0 , "url" : " https://jx.playerjy.com/?url= " },
-		{ “名称”：“ ccyjjd ”，“类型”：0，“url”：“ https://ckmov.ccyjjd.com/ckmov/?url= ” }，
+		
 		{ "name" : "诺诺" , "type" : 0 , "url" : " https://www.ckmov.com/?url= " },
 		{ "name" : " H8 " , "type" : 0 , "url" : " https://www.h8jx.com/jiexi.php?url= " },
 		{ "name" : " BL " , "type" : 0 , "url" : " https://vip.bljiex.com/?v= " },
