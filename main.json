@@ -324,7 +324,13 @@
     {"name":"解析16","type":1,"url":"https://hc.izny.cn/json.php?url="},
     {"name":"解析17","type":1,"url":"https://www.nxflv.com/?url=","header":{"User-Agent":"Mozilla/5.0"}},
     {"name":"解析18","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
-    {"name":"解析19","type":0,"url":"https://jx.777jiexi.com/player/?url="}
+    {"name":"解析19","type":0,"url":"https://jx.777jiexi.com/player/?url="}，
+    {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+{"name":"CK","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{"name":"XM","type":0,"url":"https://dm.xmflv.com:4433/?url="},
+{"name":"LK①","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name":"LK②","type":0,"url":"https://okjx.cc/?url="},
+{"name":"LK③","type":0,"url":"https://jx.zhanlangbu.com/?url="}
   ],
 
 //---------------------------------------------//
