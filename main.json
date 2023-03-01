@@ -37,7 +37,7 @@
 
 {"key":"csp_IQIYI","name":"🦇默认页面","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mgtv","name":"🦇芒果TV影视","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"SP360","name":"🦇360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":"1","jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"},
+{"key":"SP360","name":"🦇360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"🦇七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"🦇农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBXP/农民影视.json"},
 {"key":"Czsapp","name":"🦇厂长资源影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"./JAR/cs.jar"},
