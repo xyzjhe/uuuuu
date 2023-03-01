@@ -299,6 +299,8 @@
 
 //解X设置
 "parses": [
+{"name": "Json聚合","type": 3,"url": "Demo"}, 
+{"name": "Web聚合","type": 3,"url": "Web"}, 
 {"name": "综合/B站", "type": "1,3", "url": "https://jx.jsonplayer.com/player/?url="},
             
             {"name": "虾米", "type": "1,3", "url": "https://jx.xmflv.com/?url="},
