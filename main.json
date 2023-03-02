@@ -128,7 +128,7 @@
 {"key":"csp_appysv2_影库","name":"🦇影库影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_555电影","name":"🦇555电影影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://555yy1.com/api.php/app/"},
 {"key":"csp_appysv2_淘剧社 ","name":"🦇淘剧社影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
-{"key":"影图","name":"影图影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"影图","name":"🦇影图影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_悟空影院","name":"🦇悟空影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod"},
 {"key":"快播资源","name":"🦇快播资源影视","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_玖卿乐播","name":"🦇玖卿乐播影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.nqcode.cn/api.php/v1.vod"},
