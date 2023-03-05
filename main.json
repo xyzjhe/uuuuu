@@ -47,7 +47,7 @@
 {"key":"csp_Cokemv","name":"🌎可乐影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy","name":"🌎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🌎奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Zxzj","name":"🌎在线影视","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Zxzj","name":"🌎在线影视","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/cc.jar"},
 {"key":"csp_Nkdy","name":"🌎耐看影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Bd","name":"🌎哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"🌎农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/cc.jar","ext":"./MaooXBXP/Nmys.json"},
