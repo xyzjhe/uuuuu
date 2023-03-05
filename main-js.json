@@ -5,14 +5,13 @@
 
 
 {
+"spider":"./JAR/Yoursmile.jar",
 //"spider":"./JAR/ali.jar",
 //"spider":"./JAR/ts.jar",
 //"spider":"./JAR/cs.jar",
-"spider":"./JAR/Yoursmile.jar",
-//"spider":"./JAR/Yoursmile2.jar",
-//"spider":"./JAR/饭太硬.jar",
+//"spider":"./JAR/cc.jar",
+//"spider":"./JAR/tvbox.jar",
 //"spider":"./JAR/custom.PNG",
-
 
 ##主页壁纸
 //"wallpaper": "./JPG/00.jpg",
@@ -183,6 +182,7 @@
 {"key":"drpy_js_追剧达人","name":"追剧达人 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/追剧达人.js"},
 {"key":"drpy_js_追剧啦儿","name":"追剧啦儿 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":"子子影视 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/子子影视.js"}
+
 ],
 //解X设置
 "parses": [
