@@ -136,9 +136,9 @@
 
 
 //动漫
-{"key":"sq_csp_Dm84","name":"🦇动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/vod.jar"},
-{"key":"sq_csp_Anime1","name":"🦇日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./JAR/vod.jar"},
-{"key":"sq_csp_Ying","name":"🦇樱花动漫","type":3,"api":"csp_Ying","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/vod.jar"},
+{"key":"sq_csp_Dm84","name":"🦇动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/cc.jar"},
+{"key":"sq_csp_Anime1","name":"🦇日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./JAR/cc.jar"},
+{"key":"sq_csp_Ying","name":"🦇樱花动漫","type":3,"api":"csp_Ying","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/cc.jar"},
 
 
 //音乐
