@@ -147,7 +147,7 @@
 
 //其它  JS
 
-{"key":"🕸🕸🕸🕸","name":"🕸🕸JS🕸🕸","type":3,"api":"","ext":""},
+
 {"key":"drpy_js_奇珍异兽","name":"爱奇艺 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"优酷 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"腾讯 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/腾云驾雾.js"},
