@@ -35,7 +35,8 @@
 
 "sites": [
 
-{"key":"csp_Kunyu77","name":"🦇默认首页","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"drpy_js_360影视","name":"默认首页","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/360影视.js"},
+{"key":"csp_Kunyu77","name":"🦇七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mgtv","name":"🦇芒果TV影视","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"SP360","name":"🦇360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"🦇爱奇艺影视","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
@@ -152,7 +153,7 @@
 {"key":"Tbook","name":"🦇听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"./JAR/ts.jar"},
 
 //其它  JS
-{"key":"drpy_js_360影视","name":"360 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/360影视.js"},
+
 {"key":"drpy_js_奇珍异兽","name":"爱奇艺 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"优酷 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"腾讯 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/腾云驾雾.js"},
