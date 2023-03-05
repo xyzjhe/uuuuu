@@ -49,7 +49,7 @@
 {"key":"csp_BuLei","name":"🦇布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🦇快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🦇新视觉影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Bttoo","name":"🦇两个BT影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttoo","name":"🦇两个BT影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/cc.jar"},
 {"key":"csp_Auete","name":"🦇Auete影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bdys","name":"🦇哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Ysgc","name":"🦇影视工厂影视","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
