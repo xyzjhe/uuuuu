@@ -49,7 +49,7 @@
 {"key":"csp_Auete","name":"🌎奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🌎在线影视","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/cc.jar"},
 {"key":"csp_Nkdy","name":"🌎耐看影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Bd","name":"🌎哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xBPQ_豆巴影视","name":"🌎豆巴影视","type": 3,"api":"csp_xBPQ","ext":"./MaooXBXP/豆巴影视.json"},
 {"key":"csp_Nmys","name":"🌎农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/cc.jar","ext":"./MaooXBXP/Nmys.json"},
 {"key":"csp_Mgtv","name":"🌎芒果影视","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"🌎奇艺影视","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
