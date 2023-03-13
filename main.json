@@ -46,7 +46,7 @@
 {"key":"csp_Czsapp","name":"🌎厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"🌎胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🌎低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"csp_Voflix","name":"🌎密365c","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_Hlsp","name": "🌎黑料影视","type": 3,"api": "csp_Hlsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./MaooXBXP/黑料.json"    },
 {"key":"csp_Cokemv","name":"🌎可乐影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Smdyy","name":"🌎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/main.jar"},
 {"key":"csp_Auete","name":"🌎奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
