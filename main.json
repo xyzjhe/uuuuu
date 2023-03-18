@@ -62,7 +62,7 @@
 {"key":"csp_BuLei","name":"🌎布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🌎视觉影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/You.jar"},
 {"key":"csp_Bttoo","name":"🌎两BT影视","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/You.jar"},
-{"key":"csp_Auete","name":"🌎密365c","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bd","name":"🌎密365c","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_IKan","name":"🌎爱看影视","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"./JAR/cs.jar"},
 {"key":"一起看","name":"🌎一起影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./JAR/cs.jar"},
 {"key":"Ddys","name":"🌎低端影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"./JAR/cs.jar"},
