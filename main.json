@@ -13,6 +13,7 @@
 //"spider":"./JAR/main.jar",
 //"spider":"./JAR/tvbox.jar",
 //"spider":"./JAR/custom.PNG",
+//"spider":"./JAR/loamen_spider.jar",
 
 
 
@@ -38,7 +39,7 @@
 
 "sites": [
 {"key":"dr_豆瓣","name":"🌎豆瓣影视","type":3,"api":"./JS/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./JS/js/豆瓣.js"},
-{"key":"csp_QQ","name":"🌎腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable" :1},
+{"key":"csp_QQ","name":"🌎腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable" :1,"jar":"./JAR/loamen_spider.jar"},
 {"key":"csp_77","name":"🌎酷云影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"SP360","name":"🌎360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"🌎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -48,9 +49,9 @@
 {"key":"csp_DiDuan","name":"🌎低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_Hlsp","name": "🌎黑料影视","type": 3,"api": "csp_Hlsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./MaooXBXP/黑料.json","jar":"./JAR/xxtv.jar"},
 {"key":"csp_Cokemv","name":"🌎可乐影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"Smdyy","name":"🌎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/main.jar"},
+{"key":"Smdyy","name":"🌎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/loamen_spider.jar"},
 {"key":"csp_Auete","name":"🌎奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Zxzj","name":"🌎在线影视","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/main.jar"},
+{"key":"csp_Zxzj","name":"🌎在线影视","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/loamen_spider.jar"},
 {"key":"csp_Nkdy","name":"🌎耐看影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_豆巴影视","name":"🌎豆巴影视","type": 3,"api":"csp_xBPQ","ext":"./MaooXBXP/豆巴影视.json"},
 {"key":"csp_Nmys","name":"🌎农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/You.jar","ext":"./MaooXBXP/Nmys.json"},
