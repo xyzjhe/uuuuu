@@ -47,7 +47,7 @@
 {"key":"csp_Bttoo","name":"🌎BTT影视","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"🌎苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"🌎快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Czsapp","name":"🌎厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "SPIQY","name": "🌎爱奇影视","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./JAR/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"},
 {"key":"csp_panghu","name":"🌎胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🌎低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_Hlsp","name": "🌎黑料影视","type": 3,"api": "csp_Hlsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./MaooXBXP/黑料.json","jar":"./JAR/xxtv.jar"},
