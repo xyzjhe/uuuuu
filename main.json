@@ -39,7 +39,7 @@
 
 "sites": [
 {"key":"dr_豆瓣","name":"🌎豆瓣影视","type":3,"api":"./JS/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./JS/js/豆瓣.js"},
-//{"key":"csp_QQ","name":"🌎腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable" :1,"jar":"./JAR/loamen_spider.jar"},
+{"key": "SPQQ","name": "🐧腾讯影视","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./JAR/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"},
 {"key":"csp_77","name":"🌎酷云影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Smdyy","name":"🌎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/You.jar"},
 {"key":"SP360","name":"🌎360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
