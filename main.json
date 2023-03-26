@@ -185,7 +185,7 @@
 {"key":"drpy_js_电影先生","name":"电影先生 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/电影先生.js"},
 {"key":"drpy_js_秋霞影院","name":"秋霞影院 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/秋霞.js"},
 {"key":"drpy_js_凌云影视","name":"凌云影视 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/凌云影视.js"},
-{"key":"drpy_js_孜然影视","name":"孜然影视 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/孜然影视.js"},
+//{"key":"drpy_js_孜然影视","name":"孜然影视 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/孜然影视.js"},
 {"key":"drpy_js_兄弟影视","name":"兄弟影视 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/兄弟影视.js"},
 {"key":"drpy_js_创艺影视","name":"创艺影视 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/创艺影视.js"},
 {"key":"drpy_js_咕噜咕噜","name":"咕噜咕噜 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/咕噜咕噜.js"},
