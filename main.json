@@ -136,12 +136,15 @@
 
 
 //MV
-
+{"key":"drpy_js_苹果DJ","name":"🌎苹果DJ","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/苹果DJ.js"},
+{"key":"drpy_js_酷狗MV","name":"🌎酷狗","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/酷狗MV.js"},
+{"key":"drpy_js_酷奇MV","name":"🌎酷奇","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/酷奇MV.js"},
+{"key":"drpy_js_爱车MV","name":"🌎爱车","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱车MV.js"},
+{"key":"drpy_js_音悦网","name":"🌎音悦网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/音悦网.js"},
+{"key":"drpy_js_A8音乐","name":"🌎A8音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/A8音乐.js"},
 
 //音乐
-{"key":"drpy_js_DJ音乐","name":"🌎DJ音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/DJ音乐.js"},
-{"key":"drpy_js_清风DJ","name":"🌎清风DJ","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/清风DJ.js"},
-{"key":"drpy_js_种子音乐","name":"🌎种子音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/种子音乐.js"},
+
 
 //听书网
 {"key":"drpy_js_喜马拉雅","name":"🌎喜马拉雅","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/喜马拉雅.js"},
