@@ -125,14 +125,38 @@
 
 
 //动漫
-{"key":"sq_csp_Dm84","name":"🌎动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/You.jar"},
-{"key":"sq_csp_Anime1","name":"🌎日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./JAR/You.jar"},
-{"key":"sq_csp_Ying","name":"🌎樱花动漫","type":3,"api":"csp_Ying","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/main.jar"},
+{"key":"drpy_js_AGE动漫","name":"🌎AGE动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/AGE动漫.js"},
+{"key":"drpy_js_NT动漫","name":"🌎NT动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/NT动漫.js"},
+{"key":"drpy_js_动漫岛","name":"🌎动漫岛","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/动漫岛.js"},
+{"key":"drpy_js_嘶哩嘶哩","name":"🌎嘶哩嘶哩","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/嘶哩嘶哩.js"},
+{"key":"drpy_js_奇米动漫","name":"🌎奇米动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/奇米动漫.js"},
+{"key":"drpy_js_曲奇动漫","name":"🌎曲奇动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/曲奇动漫.js"},
+{"key":"drpy_js_妮可动漫","name":"🌎妮可动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/妮可动漫.js"},
+{"key":"drpy_js_怡萱动漫","name":"🌎怡萱动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/怡萱动漫.js"},
+{"key":"drpy_js_异世界动漫","name":"🌎异世界动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/异世界动漫.js"},
 
+
+//MV
+{"key":"drpy_js_苹果DJ","name":"🌎苹果DJ","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/苹果DJ.js"},
+{"key":"drpy_js_酷狗MV","name":"🌎酷狗","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/酷狗MV.js"},
+{"key":"drpy_js_酷奇MV","name":"🌎酷奇","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/酷奇MV.js"},
+{"key":"drpy_js_爱车MV","name":"🌎爱车","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱车MV.js"},
+{"key":"drpy_js_音悦网","name":"🌎音悦网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/音悦网.js"},
+{"key":"drpy_js_A8音乐","name":"🌎A8音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/A8音乐.js"},
 
 //音乐
-//{"key":"csp_xpath_kuqimv","name":" 🌎酷奇MV影视","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
-{"key":"csp_xpath_A33","name":" 🌎MTV影视","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
+{"key":"drpy_js_DJ音乐","name":"🌎DJ音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/DJ音乐.js","playerType":"2"},
+{"key":"drpy_js_清风DJ","name":"🌎清风DJ","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/清风DJ.js","playerType":"2"},
+{"key":"drpy_js_种子音乐","name":"🌎种子音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/种子音乐.js"},
+
+//听书网
+{"key":"drpy_js_喜马拉雅","name":"🌎喜马拉雅","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/喜马拉雅.js","playerType":"2"},
+{"key":"drpy_js_六月听书","name":"🌎六月听书","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/六月听书.js","playerType":"2"},
+{"key":"drpy_js_博看听书","name":"🌎博看听书","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/博看听书.js","playerType":"2"},
+{"key":"drpy_js_海洋听书","name":"🌎海洋听书","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/海洋听书.js","playerType":"2"},
+{"key":"drpy_js_海盗听书","name":"🌎海盗听书","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/海盗听书.js","playerType":"2"},
+{"key":"drpy_js_听书网","name":"🌎听书网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/听书网.js","playerType":"2"},
+{"key":"drpy_js_有声听书网","name":"🌎有声听书网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/有声听书网.js","playerType":"2"},
 
 //学习
 {"key": "儿童","name": "🌎儿童乐园","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./MaooXBXP/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
