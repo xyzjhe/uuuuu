@@ -129,13 +129,6 @@
 
 
 
-//MV
-
-{"key":"drpy_js_音悦网","name":"🌎音悦网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/音悦网.js"},
-{"key":"drpy_js_A8音乐","name":"🌎A8音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/A8音乐.js"},
-
-//音乐
-{"key":"drpy_js_DJ音乐","name":"🌎DJ音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/DJ音乐.js"},
 
 
 //听书网
