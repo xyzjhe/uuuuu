@@ -132,6 +132,7 @@
 //其它  JS
 
 {"key":"drpy_js_A8音乐","name":"🌎A8音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/A8音乐.js"},
+{"key":"drpy_js_爱车MV","name":"🌎爱车","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱车MV.js"},
 {"key":"drpy_js_音悦网","name":"🌎音悦网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/音悦网.js"},
 {"key":"drpy_js_听书网","name":"🌎听书网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/听书网.js"},
 
