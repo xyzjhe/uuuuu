@@ -123,18 +123,6 @@
 {"key":"快播资源","name":"🌎快播影视","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"csp_appysv2_玖卿乐播","name":"🌎玖卿影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.nqcode.cn/api.php/v1.vod"},
 
-
-//动漫
-{"key":"drpy_js_AGE动漫","name":"🌎AGE动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/AGE动漫.js"},
-
-
-
-
-
-//听书网
-
-{"key":"drpy_js_有声听书网","name":"🌎有声听书网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/有声听书网.js"},
-
 //学习
 {"key": "儿童","name": "🌎儿童乐园","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./MaooXBXP/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
 {"key": "学习","name":"🌎学习园地","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./MaooXBXP/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
@@ -143,7 +131,11 @@
 {"key":"Tbook","name":"🌎听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"./JAR/ts.jar"},
 
 //其它  JS
+//MV
 
+{"key":"drpy_js_爱车MV","name":"🌎爱车","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱车MV.js"},
+{"key":"drpy_js_音悦网","name":"🌎音悦网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/音悦网.js"},
+{"key":"drpy_js_A8音乐","name":"🌎A8音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/A8音乐.js"},
 
 {"key":"drpy_js_奇珍异兽","name":"爱奇艺 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"优酷 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/优酷.js"},
