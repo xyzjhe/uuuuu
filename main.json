@@ -126,13 +126,7 @@
 
 //动漫
 {"key":"drpy_js_AGE动漫","name":"🌎AGE动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/AGE动漫.js"},
-{"key":"drpy_js_NT动漫","name":"🌎NT动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/NT动漫.js"},
-{"key":"drpy_js_动漫岛","name":"🌎动漫岛","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/动漫岛.js"},
-{"key":"drpy_js_奇米动漫","name":"🌎奇米动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/奇米动漫.js"},
-{"key":"drpy_js_曲奇动漫","name":"🌎曲奇动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/曲奇动漫.js"},
-{"key":"drpy_js_妮可动漫","name":"🌎妮可动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/妮可动漫.js"},
-{"key":"drpy_js_怡萱动漫","name":"🌎怡萱动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/怡萱动漫.js"},
-{"key":"drpy_js_异世界动漫","name":"🌎异世界动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/异世界动漫.js"},
+
 
 
 //MV
