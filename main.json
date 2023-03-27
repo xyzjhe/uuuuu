@@ -131,31 +131,10 @@
 {"key":"Tbook","name":"🌎听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"./JAR/ts.jar"},
 
 //其它  JS
-//动漫
-{"key":"drpy_js_AGE动漫","name":"🌎AGE动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/AGE动漫.js"},
-{"key":"drpy_js_动漫岛","name":"🌎动漫岛","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/动漫岛.js"},
-{"key":"drpy_js_奇米动漫","name":"🌎奇米动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/奇米动漫.js"},
-{"key":"drpy_js_曲奇动漫","name":"🌎曲奇动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/曲奇动漫.js"},
-{"key":"drpy_js_妮可动漫","name":"🌎妮可动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/妮可动漫.js"},
 
-
-
-
-
-{"key":"drpy_js_爱车MV","name":"🌎爱车","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱车MV.js"},
-{"key":"drpy_js_音悦网","name":"🌎音悦网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/音悦网.js"},
 {"key":"drpy_js_A8音乐","name":"🌎A8音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/A8音乐.js"},
-
-
-{"key":"drpy_js_DJ音乐","name":"🌎DJ音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/DJ音乐.js"},
-{"key":"drpy_js_清风DJ","name":"🌎清风DJ","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/清风DJ.js"},
-{"key":"drpy_js_种子音乐","name":"🌎种子音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/种子音乐.js"},
-
-
-{"key":"drpy_js_喜马拉雅","name":"🌎喜马拉雅","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/喜马拉雅.js"},
-{"key":"drpy_js_六月听书","name":"🌎六月听书","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/六月听书.js"},
 {"key":"drpy_js_听书网","name":"🌎听书网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/听书网.js"},
-{"key":"drpy_js_有声听书网","name":"🌎有声听书网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/有声听书网.js"},
+
 
 {"key":"drpy_js_奇珍异兽","name":"爱奇艺 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"优酷 [🕸]影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/优酷.js"},
