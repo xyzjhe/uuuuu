@@ -131,7 +131,7 @@
 {"key": "美食","name": " 🌎美食合集影视","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./MaooXBXP/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
 
 //动漫
-{"key":"drpy_js_妮可动漫","name":"🌎妮可动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/妮可动漫.js"},
+{"key":"drpy_js_怡萱动漫","name":"🌎怡萱动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/怡萱动漫.js"},
 
 
 //音乐
