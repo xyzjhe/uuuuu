@@ -139,8 +139,7 @@
 {"key":"drpy_js_AGE动漫","name":"🌎AGE动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/AGE动漫.js"},
 {"key":"drpy_js_NT动漫","name":"🌎NT动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/NT动漫.js"},
 
-{"key":"drpy_js_DJ音乐","name":"🌎DJ音乐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/DJ音乐.js"},
-{"key":"drpy_js_清风DJ","name":"🌎清风DJ","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/清风DJ.js"},
+
 
 {"key":"drpy_js_听书网","name":"🌎听书网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/听书网.js"},
 
