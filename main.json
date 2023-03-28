@@ -124,7 +124,7 @@
 //{"key":"csp_appysv2_玖卿乐播","name":"🌎玖卿影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.nqcode.cn/api.php/v1.vod"},
 
 //动漫
-{"key":"drpy_js_动漫岛","name":"🌎动漫岛","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/动漫岛.js"},
+{"key":"drpy_js_奇米动漫","name":"🌎奇米动漫","type":3,"api":"./JS/lib/drpy2.min.js","ext":"":"./JS/js/奇米动漫.js"},
 
 //学习
 {"key": "儿童","name": "🌎儿童乐园","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./MaooXBXP/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
