@@ -139,7 +139,7 @@
 
 {"key":"drpy_js_六月听书","name":"🌎六月听书","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/六月听书.js"},
 {"key":"drpy_js_博看听书","name":"🌎博看听书","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/博看听书.js"},
-
+{"key":"drpy_js_海洋听书","name":"🌎海洋听书","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/海洋听书.js"},
 
 
 {"key":"drpy_js_听书网","name":"🌎听书网","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/听书网.js"},
