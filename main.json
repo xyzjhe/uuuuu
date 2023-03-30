@@ -5,17 +5,21 @@
 
 
 {
-//"spider":"./JAR/YXHC.jar",
-"spider":"./JAR/Yoursmile.jar",
-//"spider":"./JAR/ali.jar",
-//"spider":"./JAR/ts.jar",
-//"spider":"./JAR/cs.jar",
-//"spider":"./JAR/You.jar",
-//"spider":"./JAR/main.jar",
-//"spider":"./JAR/tvbox.jar",
-//"spider":"./JAR/jun97.jar",
-//"spider":"./JAR/饭太硬.jar",
-
+  "spider":"./JAR/Yoursmile.jar",
+  
+"jars":
+{
+"YXHC":"./JAR/YXHC.jar",
+"ali":"./JAR/ali.jar",
+"ts":"./JAR/ts.jar",
+"cs":"./JAR/cs.jar",
+"You":"./JAR/You.jar",
+"main":"./JAR/main.jar",
+"tvbox":"./JAR/tvbox.jar",
+"jun97":"./JAR/jun97.jar",
+"饭太硬":"./JAR/饭太硬.jar",
+"Yoursmile.jar":""
+},
 
 ##主页壁纸
 //"wallpaper": "./JPG/00.jpg",
