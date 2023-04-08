@@ -12,7 +12,8 @@
 //"spider":"./JAR/cs.jar",
 //"spider":"./JAR/You.jar",
 //"spider":"./JAR/main.jar",
-"spider":"./JAR/tvbox.jar",
+//"spider":"./JAR/tvbox.jar",
+"spider":"./JAR/tvbox.txt",
 //"spider":"./JAR/jun97.jar",
 //"spider":"./JAR/饭太硬.jar",
 
