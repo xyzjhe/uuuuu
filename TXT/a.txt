@@ -862,61 +862,7 @@ ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php
 澳门莲花,http://epg.112114.xyz/lotus
-澳门葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8?zgangd
-澳门葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-澳门葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8?zgangd
-澳门葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8?zgangd
-澳门葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-澳门葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
-澳门葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
-澳门葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
-澳门葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
-澳门葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w861342563.m3u8
-澳门葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w600459343.m3u8
-澳门葡文,http://61.244.22.4/ch2/ch2.live/master.m3u8
-TVBS新闻,rtmp://59.124.75.138/sat/tv551
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
-TVBS欢乐台,rtmp://59.124.75.138/sat/tv421
-民视,rtmp://59.124.75.138/sat/tv051
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
-台视,http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
-台视,rtmp://59.124.75.138/sat/tv071
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
-中视,rtmp://59.124.75.138/sat/tv091
-中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
-中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841 
-華视,rtmp://59.124.75.138/sat/tv111
-東森財經新聞,rtmp://59.124.75.138/sat/tv571
-緯來育樂,rtmp://59.124.75.138/sat/tv701
-緯來體育,rtmp://59.124.75.138/sat/tv721
-緯來日本,rtmp://59.124.75.138/sat/tv771
-緯來戏剧,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
-ELTA體育1,rtmp://59.124.75.138/sat/md051
-ELTA體育2,rtmp://59.124.75.138/sat/md011
-ELTA體育3,rtmp://59.124.75.138/sat/md041
-ELEVEN1,rtmp://59.124.75.138/sat/tv731
-ELEVEN2,rtmp://59.124.75.138/sat/tv741
-ELEVEN2,rtmp://59.124.75.138/sat/md021
-星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2 
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-有线新闻,http://gslb.cdn.hk.chinamobile.com/live/6aec56586c324021927637a750c1811e/cb76365be43b4ba598eb2f2ef3cffcd9-3.m3u8
-时尚频道,http://juyunlive.juyun.tv/live/24950198.m3u8
-塞马直击,http://gslb.cdn.hk.chinamobile.com/live/d2afb43f61464fc5a3d3b1b0a4c187a1/11a674a3cca94ceaafab4bd0e2ae634c-2.m3u8
-MOMO綜合,rtmp://59.124.75.138/sat/tv761
-MUCH TV,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
-momo 綜合台,http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
-八大第一台HD,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
-龍華偶像劇,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-龍華日韓劇,http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
-Star World,http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
-衛视電影FHD,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-衛视中文FHD,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
-唯心電視 (480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
 
 🐼丨爱尚直播,#genre#
 CCTV1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
