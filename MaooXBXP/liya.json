@@ -1,0 +1,76 @@
+{  
+//-------- N01: 开头部分-------//
+"name": "利丽娅电影",	//-------name填网站名字
+"url": "https://www.llyady.cc/",	//-----url填网站链接
+//"User": "User-Agent:Dart/2.14 (dart:io)",	//-----User是播放请求头，个别网站需要添加播放请求头才可以播放，一般用不到，保持空即可
+
+//-----N02: 影视分类和翻页后缀部分，分类就是网站那个筛选的页面，你想要加哪个分类就加哪个，后缀就是网站那个后面的翻页格式------//
+//"fenlei": "电影$/vodshow/1--hits------#国产剧$/vodshow/48--------#日韩剧$/vodshow/50--------#欧美剧$/vodshow/51--------#港台剧$/vodshow/49--------#海外剧$/vodshow/52--------#其他剧$/vodshow/53--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------",	//-------翻页
+"fenlei": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------",
+"houzhui": "---.html",	//-----翻页后缀".html",		"",
+
+//-------N03:影视列表展示部分----//
+"shifouercijiequ": "1",		//是否需要二次截取关键代码，0不需要，1需要，基本不需要动这里	"shifouercijiequ": "0",
+//"jiequqian": "class=\"module-items module-poster-items-base \"",	//------截取前缀	"jiequqian": "空",
+"jiequqian": "class=\"module-item-pic\">",
+//"jiequhou": "id=\"page\"",	//-----截取后缀							"jiequhou": "空",
+"jiequhou": "</div>",
+"jiequshuzuqian": "<a",		//截取的列表数组的前后关键字段//----截取数组前缀		"jiequshuzuqian": "class=\"myui-vodlist__box\"",
+"jiequshuzuhou": "</a>",	//截取数组后缀							"jiequshuzuhou": "</a>",
+"tupianqian": "data-original=\"",	//截取的列表数组内的具体单个影片的标题图片和播放链接//----图片前缀
+"tupianhou": "\"",	//----图片后缀
+"biaotiqian": "title=\"",	//标题前缀
+"biaotihou": "\"",	//标题后缀
+"lianjieqian": "href=\"",	//链接前缀
+"lianjiehou": "\"",	//链接后缀
+
+//-------N04:搜索部分------//--1、JSON模式搜索，这个模式下只需要改一个字段的地方"sousuohouzhui"这个字段。就是打开网页的播放页面那个链接的中间部分，2、常规模式搜索，这个模式就得改很多地方了
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",	//搜索的链接前缀和后缀，常规模式才需要改，JSON模式的话保持默认即可
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/id/",	//JSON搜索模式，只改第一个"sousuohouzhui"字段即可，其他都不用动//--搜索后缀
+//"sousuohouzhui": "/index.php/vod/detail/id",
+"ssmoshi": "0",		//搜索模式，0为json模式，1为常规模式
+"sousuoshifouercijiequ": "0",		//搜索是否需要二次截取，0不需要，1需要，一般不用动这3个字段
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",	//常规搜索影视列表的数组截取
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",	//常规搜索影视列表的数组的具体单个影片标题，图片和链接//----搜索图片后缀
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+
+//------N05:播放部分--------//
+"bfshifouercijiequ": "0",	//播放是否需要二次截取，0不需要，1需要，一般不用动这3个字段
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"module-play-list-content",		//播放线路列表的数组截取	"id=\"playlist",
+"bfjiequshuzuhou": "</div>",									//"</ul>",
+
+"zhuangtaiqian": "更新：</span>",	//--状态前缀--//影片的状态，导演，演员，剧情的截取支持简单HTML显示，所以这部分的截取相对比较灵活
+"zhuangtaihou": "</div>",	//--状态后缀
+"daoyanqian": "导演：</span>",	//--导演前缀
+"daoyanhou": "</div>",	//--导演前缀
+"zhuyanqian": "主演：</span>",		//--主演前缀
+"zhuyanhou": "</div>",		//--主演后缀
+"juqingqian": "style=\"line-height: 20px;\">",		//--剧情前缀	"简介：</span>",
+"juqinghou": "</span>",		//--剧情前缀	"<a",
+
+//--播放线路内的集数截取--
+"bfyshifouercijiequ": "0",	//集数是否需要二次截取，0不需要，1需要，一般不用动这里的字段
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",	//播放集数的数组截取	"<a",
+"bfyjiequshuzuhou": "/a>",				//"/a>",
+"bfbiaotiqian": "<span>",	//播放集数的标题和链接截取	">",
+"bfbiaotihou": "</span>",				//"<",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\""	
+
+//如果截取的关键字段带有"号的，前面要用\进行转义
+}

@@ -1,57 +1,73 @@
-{
-  "ua": "",
-  "homeUrl": "https://www.bdys01.com",
-  "dcPlayUrl": "true",
-  "cateNode": "//a[contains(@href,'/s/')]",
-  "cateName": "concat(//span[contains(@class,'nav-link-title')]/text(),//a[contains(@class,'dropdown-item')]/text())",
-  "cateId": "/@href",
-  "cateIdR": "/s/(\\w+)",
-  "cateManual": {},
-  "homeVodNode": "//div[contains(@class,'col-4 rows-md-7')]/div[contains(@class,'card card-sm card-link')]",
-  "homeVodName": "//h3/text()",
-  "homeVodId": "/a/@href",
-  "homeVodIdR": "/(\\S+).htm",
-  "homeVodImg": "/a/img/@data-src",
-  "homeVodImgR": "\\S+(http\\S+)",
-  "homeVodMark": "concat(//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text(),//span[contains(@class,'badge bg-pink position-absolute top-0 start-0')]/text())",
-  "cateUrl": "https://www.bdys01.com/s/{cateId}/{catePg}",
-  "cateVodNode": "//div[contains(@class,'col-lg-8 col-4')]/div[contains(@class,'card card-sm card-link')]",
-  "cateVodName": "//h3/text()",
-  "cateVodId": "/a/@href",
-  "cateVodIdR": "/(\\S+).htm",
-  "cateVodImg": "/a/img/@src",
-  "cateVodImgR": "\\S+(http\\S+)",
-  "cateVodMark": "concat(//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text(),//span[contains(@class,'badge bg-pink position-absolute top-0 start-0')]/text())",
-  "dtUrl": "https://www.bdys01.com/{vid}.htm",
-  "dtNode": "//body",
-  "dtName": "//h2/text()",
-  "dtNameR": "",
-  "dtImg": "//div[contains(@class,'col-md-auto')]/img/@src",
-  "dtImgR": "",
-  "dtCate": "//div[@class='col mb-2']/p/a[contains(@target,'new')]/text()",
-  "dtArea": "//div[@class='col mb-2']//strong[contains(text(),'地区')]/parent::text()",
-  "dtAreaR": "\\[(\\S+)\\]",
-  "dtYear": "//div[@class='col mb-2']//strong[contains(text(),'上映日期')]/parent::text()",
-  "dtYearR": "(\\w+)",
-  "dtActor": "//div[@class='col mb-2']//a[contains(@href,'performer')]/text()",
-  "dtDirector": "//div[@class='col mb-2']//a[contains(@href,'director')]/text()",
-  "dtDesc": "//div[@class='card collapse']//div[@class='card-body']/text()",
+{  
+//-------- N01: 开头部分-------//
+"name": "叭度影视",	//-------name填网站名字
+"url": "https://www.bd8s.com/",	//-----url填网站链接bd8s.com,bd88s.com
+//"User": "User-Agent:Dart/2.14 (dart:io)",	//-----User是播放请求头，个别网站需要添加播放请求头才可以播放，一般用不到，保持空即可
 
-  //获取magnet链接
-  "dtFromNode": "//tbody[contains(@id,'download-list')]/tr",
-  "dtFromName": "/td[2]/text()",
-  "dtUrlNode": "//tbody[contains(@id,'download-list')]",
-  "dtUrlSubNode": "/tr",
-  "dtUrlId": "/td[3]/a/@href",
-  "dtUrlIdR": "",
-  "dtUrlName": "/td[2]/text()",
+//-----N02: 影视分类和翻页后缀部分，分类就是网站那个筛选的页面，你想要加哪个分类就加哪个，后缀就是网站那个后面的翻页格式------//
+"fenlei": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------",	//-------翻页
+"houzhui": "---.html",	//-----翻页后缀".html",		"",
 
+//-------N03:影视列表展示部分----//
+"shifouercijiequ": "1",		//是否需要二次截取关键代码，0不需要，1需要，基本不需要动这里	"shifouercijiequ":"0",
+"jiequqian": "class=\"module-items module-poster-items-base",	//------截取前缀	"jiequqian":"空",
+"jiequhou": "id=\"page\"",	//-----截取后缀							"jiequhou":"空",
+"jiequshuzuqian": "<a",		//截取的列表数组的前后关键字段//----截取数组前缀		"jiequshuzuqian":"class=\"myui-vodlist__box\"",
+"jiequshuzuhou": "</a>",	//截取数组后缀							"jiequshuzuhou":"</a>",
+"tupianqian": "original=\"",	//截取的列表数组内的具体单个影片的标题图片和播放链接//----图片前缀
+"tupianhou": "\"",	//----图片后缀
+"biaotiqian": "title=\"",	//标题前缀
+"biaotihou": "\"",	//标题后缀
+"lianjieqian": "href=\"",	//链接前缀
+"lianjiehou": "\"",	//链接后缀
 
-  "searchUrl": "https://www.bdys01.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
-  "scVodNode": "json:list",
-  "scVodName": "name",
-  "scVodId": "id",
-  "scVodIdR": "",
-  "scVodImg": "pic",
-  "scVodMark": ""
+//-------N04:搜索部分------//--1、JSON模式搜索，这个模式下只需要改一个字段的地方"sousuohouzhui"这个字段。就是打开网页的播放页面那个链接的中间部分。
+//2、常规模式搜索，这个模式就得改很多地方了
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",	//搜索的链接前缀和后缀，常规模式才需要改，JSON模式的话保持默认即可
+"sousuohou": "&limit=50",
+"sousuohouzhui": "/voddetail/",	//JSON搜索模式，只改第一个"sousuohouzhui"字段即可，其他都不用动//--搜索后缀
+"ssmoshi": "0",		//搜索模式，0为json模式，1为常规模式
+"sousuoshifouercijiequ": "0",		//搜索是否需要二次截取，0不需要，1需要，一般不用动这3个字段
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",	//常规搜索影视列表的数组截取
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",	//常规搜索影视列表的数组的具体单个影片标题，图片和链接//----搜索图片后缀
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+
+//------N05:播放部分--------//
+"bfshifouercijiequ": "0",	//播放是否需要二次截取，0不需要，1需要，一般不用动这3个字段
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"module-play-list-content",		//播放线路列表的数组截取	"id=\"playlist",
+"bfjiequshuzuhou": "</div>",									//"</ul>",
+
+"zhuangtaiqian": "更新：</span>",	//--状态前缀--//影片的状态，导演，演员，剧情的截取支持简单HTML显示，所以这部分的截取相对比较灵活
+"zhuangtaihou": "</div>",	//--状态后缀
+"daoyanqian": "导演：</span>",	//--导演前缀
+"daoyanhou": "</div>",	//--导演前缀
+"zhuyanqian": "主演：</span>",		//--主演前缀
+"zhuyanhou": "</div>",		//--主演后缀
+"juqingqian": "style=\"line-height: 20px;\">",		//--剧情前缀	"简介：</span>",
+"juqinghou": "</div>",		//--剧情前缀	"<a",
+
+//--播放线路内的集数截取--
+"bfyshifouercijiequ": "0",	//集数是否需要二次截取，0不需要，1需要，一般不用动这里的字段
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",	//播放集数的数组截取	"<a",
+"bfyjiequshuzuhou": "/a>",				//"/a>",
+"bfbiaotiqian": "<span>",	//播放集数的标题和链接截取	">",
+"bfbiaotihou": "</span>",				//"<",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\""	
+
+//如果截取的关键字段带有"号的，前面要用\进行转义
 }
