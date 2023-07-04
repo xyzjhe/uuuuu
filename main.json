@@ -3,18 +3,16 @@
 
 
 {
-//"spider":"./JAR/YCS.jar",
+//"spider":"./JAR/XYQ.jar",
 //"spider":"./JAR/Yoursmile.jar",
 //"spider":"./JAR/Yoursmile2.jar",
 "spider":"./JAR/fanty.jar",
-//"spider":"./JAR/ts.jar",
+//"spider":"./JAR/custom_spider.jar",
 //"spider":"./JAR/cs.jar",
-//"spider":"./JAR/You.jar",
-//"spider":"./JAR/main.jar",
-//"spider":"./JAR/008.png",
-//"spider":"./JAR/tvbox.txt",
-//"spider":"./JAR/jun97.jar",
-"spider":"./JAR/spider.jar",
+//"spider":"./JAR/fan.txt",
+//"spider":"./JAR/fm.nogo.jar",
+//"spider":"./JAR/小暴脾气.jar",
+
 
 ##主页壁纸
 //"wallpaper": "./JPG/00.jpg",
