@@ -1,7 +1,8 @@
 {
     "title": "分享短视频",
     "author": "香雅情",
-    "UserAgent":"",
+    "UserAgent":"PC_UA",
+    "SUserAgent":"User-Agent$PC_UA",
     "firstpage": "1",
     "class_url": "http://www.sharenice.net/{cateId}?page={catePg}[firstPage=http://www.sharenice.net/{cateId}]",
     "class_name": "抖音&快手&微视&火山&场库&体育&美拍&秒拍&全民&梨&好兔&美女&正能量&搞笑&社会&游戏&娱乐&旅游&萌系&生活&音乐&美食&明星&动漫&影视&时尚",
@@ -60,6 +61,10 @@
     "epi_title": "",
     "epi_url": "",
     "epiurl_prefix": "",
-    "epiurl_suffix": ""
+    "epiurl_suffix": "",
+    //是否开启手动嗅探
+    "ManualSniffer":"1",
+    //手动嗅探视频链接关键字，每个用#隔开
+    "VideoFormat":".mp4#.m3u8#.flv#is_play_url=1#item/video#kaiyanapp#qianpailive"
     
 }
