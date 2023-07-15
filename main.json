@@ -44,6 +44,7 @@
 {"key":"drpy_js_快看","name":"影视|快看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
 {"key":"drpy_js_爱看","name":"影视|爱看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 {"key":"drpy_js_低端","name":"影视|低端","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
+{"key":"csp_77","name":"影视┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"drpy_js_酷云77","name":"影视 | 酷云77","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 {"key":"drpy_js_cokemv","name":"影视|cokemv","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 {"key":"drpy_js_LIBVIO","name":"影视|LIBVIO","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
