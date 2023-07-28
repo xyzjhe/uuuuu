@@ -117,7 +117,7 @@
 {"key":"drpy_js_相声随身听","name":"七仙女||相声随身听","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/相声随身听.js"},
 {"key":"drpy_js_评书随身听","name":"七仙女||评书随身听","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/评书随身听.js"},
 {"key":"drpy_js_武享吧","name":"七仙女||武享吧","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/武享吧.js"},
-{
+
 
 {"key":"drpy_js_58动漫","name":"七仙女||58动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/58动漫.js"},
 {"key":"drpy_js_AGE动漫","name":"七仙女||AGE动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AGE动漫.js"},
