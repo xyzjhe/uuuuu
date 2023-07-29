@@ -1,336 +1,1580 @@
-<!DOCTYPE html><!-- This web page is copied by "https://bazhan.wang" --><html lang="en"><head><meta name="360-analysis-id" content="1k1c1k1e39331c2v"><meta charset="utf-8"><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->
-    
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>饭太硬 | 导航</title>
-    <meta name="description" content="饭太硬的自留地">
-    <meta name="keywords" content="饭太硬">
-    <link rel="stylesheet" type="text/css" href="css/h.9c69ed6c.css">
-    <link rel="stylesheet" type="text/css" href="css/nekotora.99cf6f8c.css">
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-137340638-1"></script><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->
-    <script>function a() { dataLayer.push(arguments) } window.dataLayer = window.dataLayer || [], a("js", new Date), a("config", "UA-137340638-1");</script>
-    
-<style>
-    .toast-bottom-center {
-        position: absolute;
-        left: 30px;
-        right: 10px;
-        top: 20px;
-    }
-</style><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫--></head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3NF90DWZG8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-3NF90DWZG8');
-</script>
-
-<body><div class="background">
-    <canvas id="startrack"></canvas>
-    <div class="cover"></div>
-</div>
-<div class="main">
-    <div class="ch intro">
-        <div class="container">
-            <div class="hello">
-                <h1 id="slogan">野~</h1>
-                <!--随机文字信息在\js\page.3a0791a3.js中修改-->
-                <h2>
-                    <div class="circle"> <span></span> <span></span>
-                        <span></span>
-                    </div> 饭
-                </h2>
-            </div>
-        </div>
-    </div>
-
-    <div class="find ch">
-        <div class="container links">
-            <h2 class="chtitle">TVbox <span>接口（点击复制）</span></h2>
-            <div class="clear col-3">
-
-                <div class="item">
-                    <div class="bg" style="background-color:#1ba050"></div>
-                    <div class="inner copy-btn" id="tangsan" data-clipboard-text="https://hutool.ml/tang">
-                        <span>唐三</span>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="bg" style="background-color:#c4e00f"></div>
-                    <div class="inner copy-btn" id="junyu" data-clipboard-text="https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json">
-                        <span>FongMI</span>
-                    </div>
-                </div>
-                
-                <div class="item">
-                    <div class="bg" style="background-color:#1f3cfb"></div>
-                    <div class="inner copy-btn" id="qiaoer" data-clipboard-text="http://pandown.pro/tvbox/tvbox.json">
-                        <span>巧技</span>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="bg" style="background-color:#5d4106"></div>
-                    <div class="inner copy-btn" id="yunxing" data-clipboard-text="https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json">
-                        <span>霜辉月明py</span>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="bg" style="background-color:#0ff9ca"></div>
-                    <div class="inner copy-btn" id="xiaoya" data-clipboard-text="http://101.34.67.237/config/2"> <span>小雅js</span>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="bg" style="background-color:#d50cf0"></div>
-                    <div class="inner copy-btn" id="cainisi" data-clipboard-text="https://tvbox.cainisi.cf">
-                        <span>菜妮丝XBPQ</span>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="bg" style="background-color:#f30b0b"></div>
-                    <div class="inner copy-btn" id="feimao" data-clipboard-text="http://我不是.肥猫.love:63/接口禁止贩卖"> <span>肥猫</span> </div>
-                </div>
-                <div class="item">
-                    <div class="bg" style="background-color:#680fe4"></div>
-                    <div class="inner copy-btn" id="shenqi" data-clipboard-text="https://神器每日推送.tk/pz.json">
-                        <span>神器</span>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="bg" style="background-color:#28a9e0"></div>
-                    <div class="inner copy-btn" id="yunxing" data-clipboard-text="http://饭太硬.ga/x/o.json">
-                        <span>饭太硬</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="gate ch">
-        <div class="container links">
-            <h2 class="chtitle">开源壳子 <span>TVbox相关免费资源推荐</span></h2>
-            <div class="clear col-3">
-                <a href="https://t.me/TVBoxxoo" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="http://ftyyy.tk/json/Telegram_2019_Logo.svg.png"> </div>
-                        <div class="inner">
-                            <h5>Box醒人室</h5>
-                            <p>分享！喜悦是加倍的！来交个朋友吧~</p>
-                        </div>
-                    </div>
-                </a>
-            <a href="https://xxooo.ml/" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://i.imgtg.com/2022/12/04/DUaQl.png">
-                        </div>
-                        <div class="inner">
-                            <h5>太短</h5>
-                            <p>缩短链接，屌！也不是很短~</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://js.xxooo.ml" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://i.imgtg.com/2022/12/04/DUOAb.png"> </div>
-                        <div class="inner">
-                            <h5>太快</h5>
-                            <p>GitHub 文件加速</p>
-                        </div>
-                    </div>
-                </a-->
-                <a href="http://qiqiv.cn/tvbox/" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://i.imgtg.com/2022/12/04/DUMqP.png">
-                        </div>
-                        <div class="inner">
-                            <h5>太能编</h5>
-                            <p>接口配置编辑器，支持加解密</p>
-                        </div>
-                    </div>
-                </a>
-                
-                <a href="https://github.com/FongMi/TV" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://i.imgtg.com/2022/12/04/DTIbD.png">
-                        </div>
-                        <div class="inner">
-                            <h5>影视TV 开源仓库</h5>
-                            <p>台湾活雷锋FongMI开发，免费简洁而强大的播放器，自动更新</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://t.me/+Zcj4gVQhHykwMGU1" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://i.imgtg.com/2022/12/04/DTIbD.png">
-                        </div>
-                        <div class="inner">
-                            <h5>影视TV 发布频道</h5>
-                            <p>片头片尾快捷标记，最新EXO支持软硬解，无缝换线路换源</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://github.com/q215613905/TVBoxOS" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://i.imgtg.com/2022/12/04/DTX2I.png">
-                        </div>
-                        <div class="inner">
-                            <h5>俊于 开源仓库</h5>
-                            <p>Tvbox源码加更，免费，延续官仓风格的版本</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://t.me/TVBoxOSC" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://i.imgtg.com/2022/12/04/DTX2I.png">
-                        </div>
-                        <div class="inner">
-                            <h5>俊于版 发布频道</h5>
-                            <p>其中的 #q215613905版本</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://github.com/takagen99/Box" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://i.imgtg.com/2022/12/04/DT3mF.png">
-                        </div>
-                        <div class="inner">
-                            <h5>takagen99 开源仓库</h5>
-                            <p>也是基于Tvbox官仓源码开发，美化UI，支持webdav</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://t.me/TVBoxOSC" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://i.imgtg.com/2022/12/04/DT3mF.png">
-                        </div>
-                        <div class="inner">
-                            <h5>takagen99版 发布频道</h5>
-                            <p>其中的 #takagen99</p>
-                        </div>
-                    </div>
-                </a>
-              <a href="https://qun.qq.com/qqweb/qunpro/share?inviteCode=1XBvP1xJJY9" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://ftyyy.tk/json/Locallogo.png">
-                        </div>
-                        <div class="inner">
-                            <h5>TVbox 本地包频道</h5>
-                            <p>本地化配置包，可用于影视TV和TVbox等壳直接食用</p>
-                        </div>
-                    </div>
-                </a>
-              <a href="https://blog.sxbai.com" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://blog.sxbai.com/upload/2022/11/user.jpeg">
-                        </div>
-                        <div class="inner">
-                            <h5>舒夏博客</h5>
-                            <p>分享各种免费搭建项目教程，适合搭配TVbox使用</p>
-                        </div>
-                    </div>
-                </a>
-             <a href="https://cjk.ftyyy.repl.co" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://replit.com/cdn-cgi/image/width=32,quality=80,format=auto/https://storage.googleapis.com/replit/images/1674353835290_bad6c11f3277ed7822d0fbf382ebb523.jpeg">
-                        </div>
-                        <div class="inner">
-                            <h5>Kodi插件库</h5>
-                            <p>霜辉月明维护的Kodi插件库</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://gitcode.net/qq_32394351/dr_py" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://gitcode.net/qq_32394351/dr_py/-/raw/1fe0e082b1ceacc4469d7f175a605cc2edf0bab0/static/img/icon.png">
-                        </div>
-                        <div class="inner">
-                            <h5>道长DRPY项目</h5>
-                            <p>可直接用于影视TV和TVbox软件数据源使用</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://c.runoob.com" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://static.runoob.com/images/c-runoob-logo.ico"> </div>
-                        <div class="inner">
-                            <h5>菜鸟工具</h5>
-                            <p>常用工具大全,包括js美化base64加解密</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://jihulab.com" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://jihulab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png">
-                        </div>
-                        <div class="inner">
-                            <h5>极狐代码托管</h5>
-                            <p>稳定速度快，个人私用接口托管足够了~</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://bar.ssstab.com/" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://bar.ssstab.com/favicon-32x32.png"> </div>
-                        <div class="inner">
-                            <h5>sssbar搜索</h5>
-                            <p>工具箱搜索网站，非常的方便且强大</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://adzhp.net/?ref=www.widiz.com" target="_blank">
-                    <div class="item">
-                        <div class="avatar"> <img src="https://adzhp.net/wp-content/uploads/2019/02/A.png"> </div>
-                        <div class="inner">
-                            <h5>爱达杂货铺</h5>
-                            <p>收集那些有用的东西</p>
-                        </div>
-                    </div>
-                </a>
-                    
-                
-            </div>
-            <!--底部波浪-->
-            <div id="hans-bolang"></div><script src="https://api.vvhan.com/api/bolang"></script>
-        </div>
-        <div class="footer ch">
-            <div class="container">
-                <h4>© 2023 Powered by 饭</h4>
-            </div>
-        </div>
-    </div>
-
-    <script src="js/page.3a0791a3.js"></script>
-    <!--以下为点击复制调用js-->
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->
-    <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.10/dist/clipboard.min.js"></script><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->
-    <script>
-        $('.copy-btn').click(function () {
-            let id = $(this).attr('id')
-            copy('#' + id)
-        })
-        function copy(id) {
-            let clipboard = new ClipboardJS(id);
-            clipboard.on('success', function (e) {
-                console.log(e);
-                alert('复制成功，请前往壳的设置里粘贴接口')
-                clipboard.destroy();//解决多次弹窗问题
-            });
-            clipboard.on('error', function (e) {
-                console.log(e);
-                alert('请重新复制')
-                clipboard.destroy();//解决多次弹窗问题
-            });
+{
+    "classes": [
+        {
+            "type_name": "高一语文",
+            "type_id": "高一语文"
+        },
+        {
+            "type_name": "高一数学",
+            "type_id": "高一数学"
+        },
+        {
+            "type_name": "高一英语",
+            "type_id": "高一英语"
+        },
+        {
+            "type_name": "高一历史",
+            "type_id": "高一历史"
+        },
+        {
+            "type_name": "高一地理",
+            "type_id": "高一地理"
+        },
+        {
+            "type_name": "高一生物",
+            "type_id": "高一生物"
+        },
+        {
+            "type_name": "高一思想政治",
+            "type_id": "高一思想政治"
+        },
+        {
+            "type_name": "高一物理",
+            "type_id": "高一物理"
+        },
+        {
+            "type_name": "高一化学",
+            "type_id": "高一化学"
+        },
+        {
+            "type_name": "高二语文",
+            "type_id": "高二语文"
+        },
+        {
+            "type_name": "高二数学",
+            "type_id": "高二数学"
+        },
+        {
+            "type_name": "高二英语",
+            "type_id": "高二英语"
+        },
+        {
+            "type_name": "高二历史",
+            "type_id": "高二历史"
+        },
+        {
+            "type_name": "高二地理",
+            "type_id": "高二地理"
+        },
+        {
+            "type_name": "高二生物",
+            "type_id": "高二生物"
+        },
+        {
+            "type_name": "高二思想政治",
+            "type_id": "高二思想政治"
+        },
+        {
+            "type_name": "高二物理",
+            "type_id": "高二物理"
+        },
+        {
+            "type_name": "高二化学",
+            "type_id": "高二化学"
+        },
+        {
+            "type_name": "高三语文",
+            "type_id": "高三语文"
+        },
+        {
+            "type_name": "高三数学",
+            "type_id": "高三数学"
+        },
+        {
+            "type_name": "高三英语",
+            "type_id": "高三英语"
+        },
+        {
+            "type_name": "高三历史",
+            "type_id": "高三历史"
+        },
+        {
+            "type_name": "高三地理",
+            "type_id": "高三地理"
+        },
+        {
+            "type_name": "高三生物",
+            "type_id": "高三生物"
+        },
+        {
+            "type_name": "高三思想政治",
+            "type_id": "高三思想政治"
+        },
+        {
+            "type_name": "高三物理",
+            "type_id": "高三物理"
+        },
+        {
+            "type_name": "高三化学",
+            "type_id": "高三化学"
+        },
+        {
+            "type_name": "高中信息技术",
+            "type_id": "高中信息技术"
+        },
+        {
+            "type_name": "高中信息技术",
+            "type_id": "高中信息技术"
         }
-    </script><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->
-
-</div>
-
-<!--雪花API-->
-<script src="https://api.vvhan.com/api/snow"></script>
-
-
-
-</body></html><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->
+    ],
+    "filter": {
+        "高一语文": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高一语文"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高一语文"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高一语文"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高一语文"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高一英语": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高一英语"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高一英语"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高一英语"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高一英语"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高一数学": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高一数学"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高一数学"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高一数学"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高一数学"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高一物理": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高一物理"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高一物理"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高一物理"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高一物理"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高一化学": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高一化学"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高一化学"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高一化学"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高一化学"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高一历史": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高一历史"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高一历史"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高一历史"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高一历史"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高一生物": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高一生物"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高一生物"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高一生物"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高一生物"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高一思想政治": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高一思想政治"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高一思想政治"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高一思想政治"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高一思想政治"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高一地理": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高一地理"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高一地理"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高一地理"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高一地理"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高二语文": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高二语文"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高二语文"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高二语文"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高二语文"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高二英语": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高二英语"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高二英语"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高二英语"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高二英语"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高二数学": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高二数学"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高二数学"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高二数学"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高二数学"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高二物理": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高二物理"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高二物理"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高二物理"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高二物理"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高二化学": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高二化学"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高二化学"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高二化学"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高二化学"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高二历史": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高二历史"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高二历史"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高二历史"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高二历史"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高二生物": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高二生物"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高二生物"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高二生物"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高二生物"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高二思想政治": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高二思想政治"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高二思想政治"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高二思想政治"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高二思想政治"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高二地理": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高二地理"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高二地理"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高二地理"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高二地理"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高三语文": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高三语文"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高三语文"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高三语文"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高三语文"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高三英语": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高三英语"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高三英语"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高三英语"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高三英语"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高三数学": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高三数学"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高三数学"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高三数学"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高三数学"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高三物理": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高三物理"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高三物理"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高三物理"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高三物理"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高三化学": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高三化学"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高三化学"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高三化学"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高三化学"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高三历史": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高三历史"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高三历史"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高三历史"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高三历史"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高三生物": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高三生物"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高三生物"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高三生物"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高三生物"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高三思想政治": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高三思想政治"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高三思想政治"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高三思想政治"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高三思想政治"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ],
+        "高三地理": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "沪教版",
+                        "v": "沪教版高三地理"
+                    },
+                    {
+                        "n": "人教版",
+                        "v": "人教版高三地理"
+                    },
+                    {
+                        "n": "北师大版",
+                        "v": "北师大版高三地理"
+                    },
+                    {
+                        "n": "苏教版",
+                        "v": "苏教版高三地理"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ]
+    }
+}

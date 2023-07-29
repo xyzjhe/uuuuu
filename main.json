@@ -38,9 +38,9 @@
 ## sites ##
 
 "sites": [
-{"key":"drpy_js_豆瓣","name":"七仙女||豆瓣搜索","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":0,"quickSearch":0,"changeable":0},
-//{"key":"drpy_js_新片场","name":"七仙女||新片场","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新片场.js"},
-{"key":"csp_YGP","name":"七仙女||新片速递","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"drpy_js_豆瓣","name":"豆瓣搜索","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":0,"quickSearch":0,"changeable":0},
+
+{"key":"csp_YGP","name":"新片速递","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
 
 
 {"key":"drpy_js_ikanbot2","name":"七仙女||爱看机器人2","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot2.js"},
@@ -51,7 +51,7 @@
 {"key":"drpy_js_快看","name":"七仙女||快看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
 {"key":"drpy_js_爱看","name":"七仙女||爱看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 {"key":"drpy_js_低端","name":"七仙女||低端","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
-//{"key":"drpy_js_胖虎","name":"七仙女||胖虎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/胖虎.js"},
+{"key":"drpy_js_胖虎","name":"七仙女||胖虎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/胖虎.js"},
 {"key":"drpy_js_Auete","name":"七仙女||Auete","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Auete.js"},
 {"key":"drpy_js_cokemv","name":"七仙女||cokemv","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 {"key":"drpy_js_LIBVIO","name":"七仙女||LIBVIO","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
@@ -81,19 +81,22 @@
 {"key":"drpy_js_往往影视","name":"七仙女||往往影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/往往影视.js"},
 {"key":"drpy_js_蛋蛋剧","name":"七仙女||蛋蛋剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蛋蛋剧.js"},
 {"key":"drpy_js_大豆","name":"七仙女||大豆","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
+{"key":"drpy_js_鸭奈飞","name":"七仙女||鸭奈飞","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞.js"},
 
-{"key":"drpy_js_555电影[V2]","name":"七仙女||555电影[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影[V2].js"},
-{"key":"drpy_js_69美剧[V2]","name":"七仙女||69美剧[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},
-{"key":"drpy_js_F7好看剧[V2]","name":"七仙女||F7好看剧[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/F7好看剧[V2].js"},
-{"key":"drpy_js_UM电影[V2]","name":"七仙女||UM电影[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影[V2].js"},
-{"key":"drpy_js_爱迪[V2]","name":"七仙女||爱迪[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱迪[V2].js"},
-{"key":"drpy_js_创艺影视[V2]","name":"七仙女||创艺影视[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/创艺影视[V2].js"},
-{"key":"drpy_js_咕噜[V2]","name":"七仙女||咕噜[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/咕噜[V2].js"},
-{"key":"drpy_js_花猪影视[V2]","name":"七仙女||花猪影视[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猪影视[V2].js"},
-{"key":"drpy_js_看看剧[V2]","name":"七仙女||看看剧[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看看剧[V2].js"},
-{"key":"drpy_js_速看100[V2]","name":"七仙女||速看100[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/速看100[V2].js"},
-{"key":"drpy_js_鸭鸭[V2]","name":"七仙女||鸭鸭[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭鸭[V2].js"},
-{"key":"drpy_js_影探[V2]","name":"七仙女||影探[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影探[V2].js"},
+{"key":"drpy_js_555电影[V2]","name":"七仙女||555电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影[V2].js"},
+{"key":"drpy_js_69美剧[V2]","name":"七仙女||69美剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},
+{"key":"drpy_js_F7好看剧[V2]","name":"七仙女||F7好看剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/F7好看剧[V2].js"},
+{"key":"drpy_js_UM电影[V2]","name":"七仙女||UM电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影[V2].js"},
+{"key":"drpy_js_爱迪[V2]","name":"七仙女||爱迪","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱迪[V2].js"},
+{"key":"drpy_js_创艺影视[V2]","name":"七仙女||创艺影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/创艺影视[V2].js"},
+{"key":"drpy_js_咕噜[V2]","name":"七仙女||咕噜","type":3,"api":"./lib/drpy2.min.js","ext":"./js/咕噜[V2].js"},
+{"key":"drpy_js_花猪影视[V2]","name":"七仙女||花猪影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猪影视[V2].js"},
+{"key":"drpy_js_看看剧[V2]","name":"七仙女||看看剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看看剧[V2].js"},
+{"key":"drpy_js_萌蛋蛋[V2]","name":"七仙女||萌蛋蛋","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌蛋蛋[V2].js"},
+{"key":"drpy_js_速看100[V2]","name":"七仙女||速看100","type":3,"api":"./lib/drpy2.min.js","ext":"./js/速看100[V2].js"},
+{"key":"drpy_js_鸭奈飞[V2]","name":"七仙女||鸭奈飞","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞[V2].js"},
+{"key":"drpy_js_鸭鸭[V2]","name":"七仙女||鸭鸭","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭鸭[V2].js"},
+{"key":"drpy_js_影探[V2]","name":"七仙女||影探","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影探[V2].js"},
 
 {"key":"drpy_js_360影视","name":"七仙女||360","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_百忙无果","name":"七仙女||芒果","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js"},
@@ -103,9 +106,9 @@
 {"key":"drpy_js_优酷","name":"七仙女||优酷","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 
 
-{"key":"drpy_js_童趣","name":"七仙女||童趣","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/童趣.js"},
-{"key":"drpy_js_兔小贝","name":"七仙女||兔小贝","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/兔小贝.js"},
-{"key":"drpy_js_有声绘本网","name":"七仙女||有声绘本","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/有声绘本网.js"},
+{"key":"drpy_js_童趣","name":"少儿 | 童趣","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/童趣.js"},
+{"key":"drpy_js_兔小贝","name":"少儿 | 兔小贝","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/兔小贝.js"},
+{"key":"drpy_js_有声绘本网","name":"少儿 | 有声绘本","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/有声绘本网.js"},
 {"key":"drpy_js_我的哔哩","name":"七仙女||哔哩合集","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/我的哔哩.js"},
 {"key":"drpy_js_哔哩直播","name":"七仙女||哔哩直播","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"七仙女||斗鱼","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/斗鱼直播.js"},
@@ -178,7 +181,6 @@
 {"key":"drpy_js_KOK影视","name":"七仙女||KOK影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/KOK影视.js"},
 {"key":"drpy_js_Icio影视","name":"七仙女||Icio影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Icio影视.js"},
 {"key":"drpy_js_Nike影视","name":"七仙女||Nike影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Nike影视.js"},
-{"key":"drpy_js_UM电影","name":"七仙女||UM电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 {"key":"drpy_js_NY影院","name":"七仙女||NY影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/NY影院.js"},
 {"key":"drpy_js_爱迪影视","name":"七仙女||爱迪影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱迪影视.js"},
 {"key":"drpy_js_爱看电影","name":"七仙女||爱看电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看电影.js"},
@@ -255,8 +257,9 @@
 {"key":"drpy_js_子子影视","name":"七仙女||子子影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
 
 {"key":"drpy_js_555影视[飞]","name":"七仙女||555影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视[飞].js"},
-{"key":"drpy_js_爱壹帆[飞]","name":"七仙女||爱壹帆","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱壹帆[飞].js"},
 {"key":"drpy_js_if101[飞]","name":"七仙女||if101","type":3,"api":"./lib/drpy2.min.js","ext":"./js/if101[飞].js"},
+{"key":"drpy_js_KUBO影视[飞]","name":"七仙女||KUBO影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/KUBO影视[飞].js"},
+{"key":"drpy_js_爱壹帆[飞]","name":"七仙女||爱壹帆","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱壹帆[飞].js"},
 {"key":"drpy_js_独播库[飞]","name":"七仙女||独播库","type":3,"api":"./lib/drpy2.min.js","ext":"./js/独播库[飞].js"},
 {"key":"drpy_js_吼吼[飞]","name":"七仙女||吼吼","type":3,"api":"./lib/drpy2.min.js","ext":"./js/吼吼[飞].js"},
 {"key":"drpy_js_欧乐影院[飞]","name":"七仙女||欧乐影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧乐影院[飞].js"},
