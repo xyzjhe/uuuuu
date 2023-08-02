@@ -39,7 +39,7 @@
 
 "sites": [
 {"key":"drpy_js_豆瓣","name":"豆瓣搜索","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"drpy_js_新片场","name":"新片场","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新片场.js"},
+//{"key":"drpy_js_新片场","name":"新片场","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新片场.js"},
 {"key":"csp_YGP","name":"新片速递","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
 
 
@@ -47,15 +47,15 @@
 {"key":"drpy_js_ikanbot3","name":"七仙女||爱看机器人3","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
 {"key":"drpy_js_荐片","name":"七仙女||荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js"},
 {"key":"drpy_js_磁力熊[磁]","name":"七仙女||磁力熊","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/磁力熊[磁].js"},
-{"key":"drpy_js_酷云77","name":"七仙女||酷云77","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
+//{"key":"drpy_js_酷云77","name":"七仙女||酷云77","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 {"key":"drpy_js_快看","name":"七仙女||快看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
 {"key":"drpy_js_爱看","name":"七仙女||爱看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 {"key":"drpy_js_低端","name":"七仙女||低端","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
 {"key":"drpy_js_胖虎","name":"七仙女||胖虎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/胖虎.js"},
 {"key":"drpy_js_Auete","name":"七仙女||Auete","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Auete.js"},
 {"key":"drpy_js_cokemv","name":"七仙女||cokemv","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
-{"key":"drpy_js_LIBVIO","name":"七仙女||LIBVIO","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
-{"key":"drpy_js_voflix","name":"七仙女||voflix","type":3,"api":"./lib/drpy2.min.js","ext":"./js/voflix.js"},
+//{"key":"drpy_js_LIBVIO","name":"七仙女||LIBVIO","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
+//{"key":"drpy_js_voflix","name":"七仙女||voflix","type":3,"api":"./lib/drpy2.min.js","ext":"./js/voflix.js"},
 {"key":"drpy_js_乐猪TV","name":"七仙女||乐猪TV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/乐猪TV.js"},
 {"key":"drpy_js_两个BT","name":"七仙女||两个BT","type":3,"api":"./lib/drpy2.min.js","ext":"./js/两个BT.js"},
 {"key":"drpy_js_量子影视","name":"七仙女||量子影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/量子影视.js"},
