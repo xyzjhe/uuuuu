@@ -104,23 +104,6 @@
 {"key":"drpy_js_优酷","name":"七仙女||优酷","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 
 
-{"key":"drpy_js_童趣","name":"七仙女||童趣","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"./js/童趣.js"},
-{"key":"drpy_js_兔小贝","name":"七仙女||兔小贝","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/兔小贝.js"},
-{"key":"drpy_js_有声绘本网","name":"七仙女||有声绘本","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/有声绘本网.js"},
-{"key":"drpy_js_我的哔哩","name":"七仙女||哔哩合集","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/我的哔哩.js"},
-{"key":"drpy_js_哔哩直播","name":"七仙女||哔哩直播","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/哔哩直播.js"},
-{"key":"drpy_js_斗鱼直播","name":"七仙女||斗鱼","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/斗鱼直播.js"},
-{"key":"drpy_js_虎牙直播","name":"七仙女||虎牙","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/虎牙直播.js"},
-{"key":"drpy_js_JustLive","name":"七仙女||JustLive","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/JustLive.js"},
-{"key":"drpy_js_310直播","name":"七仙女||310直播","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/310直播.js"},
-{"key":"drpy_js_88看球","name":"七仙女||88看球","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/88看球.js"},
-{"key":"drpy_js_JRKAN直播","name":"七仙女||JRKAN直播","type":3,"api":"./lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/JRKAN直播.js"},
-{"key":"drpy_js_好趣网","name":"七仙女|| 好趣网","type":3,"api":"./lib/drpy2.min.js","style":{ "type":"oval", "ratio":1.1 }"changeable":0,"ext":"./js/好趣网.js"},
-{"key":"drpy_js_直播大全","name":"七仙女|| 直播大全","type":3,"api":"./lib/live2cms.js","style":{ "type":"oval", "ratio":1.1 }"changeable":0,"ext":"./js/live2mv_data.json"},
-{"key":"MV_vod","name":"七仙女||卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","changeable":0,"style":{"type":"oval"}},
-{"key":"drpy_js_相声随身听","name":"七仙女||相声随身听","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/相声随身听.js"},
-{"key":"drpy_js_评书随身听","name":"七仙女||评书随身听","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/评书随身听.js"},
-{"key":"drpy_js_武享吧","name":"七仙女||武享吧","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/武享吧.js"},
 
 
 {"key":"drpy_js_58动漫","name":"七仙女||58动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/58动漫.js"},
