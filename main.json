@@ -59,10 +59,7 @@
 {"key":"drpy_js_乐猪TV","name":"影视🕸乐猪TV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/乐猪TV.js"},
 {"key":"drpy_js_两个BT","name":"影视🕸两个BT","type":3,"api":"./lib/drpy2.min.js","ext":"./js/两个BT.js"},
 {"key":"drpy_js_量子影视","name":"影视🕸量子影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/量子影视.js"},
-{"key":"drpy_js_4KHDR","name":"影视🕸4KHDR*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
-{"key":"drpy_js_极影网","name":"影视🕸极影网*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jiyingw.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
-{"key":"drpy_js_MP4US","name":"影视🕸MP4电影*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
-{"key":"drpy_js_电影港","name":"影视🕸电影港*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
+
 
 {"key":"drpy_js_F7好看剧[V2]","name":"影视🕸F7好看剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/F7好看剧[V2].js"},
 {"key":"drpy_js_农民","name":"影视🕸农民影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
