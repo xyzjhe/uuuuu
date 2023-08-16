@@ -270,6 +270,9 @@
 {"key":"drpy_js_小宝影院[飞]","name":"起飞🌏小宝影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小宝影院[飞].js"}
 
 ],
+
+/*----------------------视频解析-----------------------*/
+
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
@@ -309,6 +312,8 @@
 {"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
 ],
 
+/*-----------------------安全DNS-----------------------*/
+
 "doh": [
 {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},
 {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
@@ -316,6 +321,7 @@
 {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
 {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}],
 
+/*-----------------------规则-----------------------*/
 
 "rules": [
 {"name":"量子广告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
