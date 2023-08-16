@@ -42,9 +42,9 @@
 {"key":"drpy_js_新片场","name":"新片场","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/新片场.js"},
 {"key":"csp_YGP","name":"新片速递","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
-{"key":"drpy_js_4KHDR","name":"影视 | 4KHDR","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
-{"key":"drpy_js_极影网","name":"影视 | 极影网","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jiyingw.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
-{"key":"drpy_js_MP4US","name":"影视 | MP4电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
+//{"key":"drpy_js_4KHDR","name":"影视 | 4KHDR","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
+//{"key":"drpy_js_极影网","name":"影视 | 极影网","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jiyingw.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
+//{"key":"drpy_js_MP4US","name":"影视 | MP4电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
 {"key":"drpy_js_电影港","name":"影视 | 电影港","type":3,"api":"./lib/drpy2.min.js","ext":"./js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
 
 {"key":"drpy_js_ikanbot2","name":"影视 | 机器人2","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot2.js"},
