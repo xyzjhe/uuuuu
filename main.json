@@ -46,7 +46,7 @@
 {"key":"新6V","name":"大师🍎新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
 
 
-{"key":"csp_wogg_cli","name":"大师🍎玩偶","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+//{"key":"csp_wogg_cli","name":"大师🍎玩偶","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 {"key":"荐片","name":"大师🍎荐片","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"drpy_js_4KHDR","name":"大师🍎4KHDR","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
