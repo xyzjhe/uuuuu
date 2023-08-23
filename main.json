@@ -51,10 +51,10 @@
 
 {"key":"drpy_js_4KHDR","name":"大师🍎4KHDR","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
 {"key":"drpy_js_极影网","name":"大师🍎极影网","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jiyingw.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
-{"key":"drpy_js_MP4US","name":"大师🍎MP4电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
+
 {"key":"drpy_js_电影港","name":"大师🍎电影港","type":3,"api":"./lib/drpy2.min.js","ext":"./js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
 {"key":"drpy_js_xb6v","name":"大师🍎新版6v","type":3,"api":"./lib/drpy2.min.js","ext":"./js/xb6v.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
-{"key":"drpy_js_美剧迷","name":"大师🍎美剧迷","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meijumi.js", "quickSearch":1, "changeable":1, "timeout":60000},
+
 {"key":"北极狐","name":"大师🍎北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"迷你库","name":"大师🍎迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 
@@ -63,12 +63,12 @@
 {"key":"drpy_js_荐片","name":"大师🍎荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js"},
 {"key":"drpy_js_磁力熊[磁]","name":"大师🍎磁力熊","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/磁力熊[磁].js"},
 {"key":"drpy_js_6V新版[磁]","name":"大师🍎6V新版","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/6V新版[磁].js"},
-{"key":"drpy_js_酷云77","name":"大师🍎酷云77","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
+
 {"key":"drpy_js_快看","name":"大师🍎快看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
 {"key":"drpy_js_爱看","name":"大师🍎爱看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 {"key":"drpy_js_低端","name":"大师🍎低端","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
 {"key":"drpy_js_南瓜影视","name":"大师🍎南瓜影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
-{"key":"drpy_js_Auete","name":"大师🍎Auete","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Auete.js"},
+
 {"key":"drpy_js_cokemv","name":"大师🍎cokemv","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 {"key":"drpy_js_LIBVIO","name":"大师🍎LIBVIO","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
 {"key":"drpy_js_voflix","name":"大师🍎voflix","type":3,"api":"./lib/drpy2.min.js","ext":"./js/voflix.js"},
@@ -87,7 +87,7 @@
 {"key":"drpy_js_城市电影","name":"大师🍎城市电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/城市电影.js"},
 {"key":"drpy_js_达达龟","name":"大师🍎达达龟","type":3,"api":"./lib/drpy2.min.js","ext":"./js/达达龟.js"},
 {"key":"drpy_js_扛把子影院","name":"大师🍎扛把子影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/扛把子影院.js"},
-{"key":"drpy_js_大师兄影视","name":"大师🍎大师兄影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大师兄影视.js"},
+
 {"key":"drpy_js_起飞影院","name":"大师🍎起飞影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/起飞影院.js"},
 {"key":"drpy_js_蛋蛋剧","name":"大师🍎蛋蛋剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蛋蛋剧.js"},
 {"key":"drpy_js_大豆","name":"大师🍎大豆","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
@@ -95,8 +95,8 @@
 
 {"key":"drpy_js_555电影[V2]","name":"大师🍎555电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影[V2].js"},
 {"key":"drpy_js_69美剧[V2]","name":"大师🍎69美剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},
-{"key":"drpy_js_F7好看剧[V2]","name":"大师🍎F7好看剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/F7好看剧[V2].js"},
-{"key":"drpy_js_UM电影[V2]","name":"大师🍎UM电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影[V2].js"},
+
+
 {"key":"drpy_js_爱迪[V2]","name":"大师🍎爱迪","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱迪[V2].js"},
 {"key":"drpy_js_创艺影视[V2]","name":"大师🍎创艺影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/创艺影视[V2].js"},
 {"key":"drpy_js_咕噜[V2]","name":"大师🍎咕噜","type":3,"api":"./lib/drpy2.min.js","ext":"./js/咕噜[V2].js"},
