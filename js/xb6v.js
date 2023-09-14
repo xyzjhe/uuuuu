@@ -27,57 +27,56 @@ var rule = {
 	}],
 	lazy:'',
 	limit:6,
-	推荐:'',
 	推荐:`js:
-		pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-		let d = [];
-		let html = request(input);
-		let list = pdfa(html, 'div.mainleft ul#post_container li');
-		list.forEach(it => {
-			d.push({
-				title: pdfh(it, 'div.thumbnail img&&alt'),
-				desc: pdfh(it, 'div.info&&span.info_date&&Text') + ' / ' + pdfh(it, 'div.info&&span.info_category&&Text'),
-				pic_url: pd(it, 'div.thumbnail img&&src', HOST),
-				url: pdfh(it, 'div.thumbnail&&a&&href')
-			});
-		});
-		setResult(d);
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+let d = [];
+let html = request(input);
+let list = pdfa(html, 'div.mainleft ul#post_container li');
+list.forEach(it => {
+	d.push({
+		title: pdfh(it, 'div.thumbnail img&&alt'),
+		desc: pdfh(it, 'div.info&&span.info_date&&Text') + ' / ' + pdfh(it, 'div.info&&span.info_category&&Text'),
+		pic_url: pd(it, 'div.thumbnail img&&src', HOST),
+		url: pdfh(it, 'div.thumbnail&&a&&href')
+	});
+});
+setResult(d);
 	`,
 	一级:'',
 	一级:`js:
-		pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-		let d = [];
-		if (MY_CATE !== 'qian50m.html') {
-			let turl = (MY_PAGE === 1)? '/' : '/index_'+ MY_PAGE + '.html';
-			input = rule.homeUrl + MY_CATE + turl;
-			let html = request(input);
-			let list = pdfa(html, 'div.mainleft ul#post_container li');
-			list.forEach(it => {
-				d.push({
-					title: pdfh(it, 'div.thumbnail img&&alt'),
-					desc: pdfh(it, 'div.info&&span.info_date&&Text') + ' / ' + pdfh(it, 'div.info&&span.info_category&&Text'),
-					pic_url: pd(it, 'div.thumbnail img&&src', HOST),
-					url: pdfh(it, 'div.thumbnail&&a&&href')
-				});
-			})
-		}else{
-			input = rule.homeUrl + MY_CATE;
-			let html = request(input);
-			let list = pdfa(html, 'div.container div#tab-content&&ul&&li');
-			list.forEach(it => {
-				let title = pdfh(it, 'a&&Text');
-				if (title!==""){
-					d.push({
-						title: title,
-						desc: pdfh(it, 'a&&Text'),
-						pic_url: '',
-						url: pdfh(it, 'a&&href')
-					});
-				}
-			})
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+let d = [];
+if (MY_CATE !== 'qian50m.html') {
+	let turl = (MY_PAGE === 1)? '/' : '/index_'+ MY_PAGE + '.html';
+	input = rule.homeUrl + MY_CATE + turl;
+	let html = request(input);
+	let list = pdfa(html, 'div.mainleft ul#post_container li');
+	list.forEach(it => {
+		d.push({
+			title: pdfh(it, 'div.thumbnail img&&alt'),
+			desc: pdfh(it, 'div.info&&span.info_date&&Text') + ' / ' + pdfh(it, 'div.info&&span.info_category&&Text'),
+			pic_url: pd(it, 'div.thumbnail img&&src', HOST),
+			url: pdfh(it, 'div.thumbnail&&a&&href')
+		});
+	})
+}else{
+	input = rule.homeUrl + MY_CATE;
+	let html = request(input);
+	let list = pdfa(html, 'div.container div#tab-content&&ul&&li');
+	list.forEach(it => {
+		let title = pdfh(it, 'a&&Text');
+		if (title!==""){
+			d.push({
+				title: title,
+				desc: pdfh(it, 'a&&Text'),
+				pic_url: '',
+				url: pdfh(it, 'a&&href')
+			});
 		}
-		setResult(d);
-	`,
+	})
+}
+setResult(d);
+`,
 	二级:{
 		title:"div.article_container h1&&Text",
 		img:"div#post_content img&&src",
@@ -95,9 +94,9 @@ let tabm3u8 = [];
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
 	if (burl.startsWith("https://www.aliyundrive.com/s/")){
-		tabsa.push("阿里云盤");
+		tabsa.push("阿里雲盤");
 	}else if (burl.startsWith("https://pan.quark.cn/s/")){
-		tabsq.push("夸克云盤");
+		tabsq.push("夸克網盤");
 	}else if (burl.startsWith("magnet")){
 		tabsm = true;
 	}else if (burl.startsWith("ed2k")){
@@ -115,6 +114,9 @@ if (tabsm === true){
 }
 if (tabse === true){
 	TABS.push("電驢");
+}
+if (false && tabsa.length + tabsq.length > 1){
+	TABS.push("選擇右側綫路");
 }
 let tmpIndex;
 tmpIndex=1;
@@ -149,19 +151,27 @@ d.forEach(function(it){
 	log('xb6v burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 	let loopresult = title + '$' + burl;
 	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		if (true){
 		if (TABS.length==1){
 			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
 		}else{
 			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
 		}
+		}else{
+                        burl = "push://" + burl;
+                }
 		loopresult = title + '$' + burl;
 		lista.push(loopresult);
 	}else if (burl.startsWith("https://pan.quark.cn/s/")){
+		if (true){
 		if (TABS.length==1){
 			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
 		}else{
 			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
 		}
+		}else{
+                        burl = "push://" + burl;
+                }
 		loopresult = title + '$' + burl;
 		listq.push(loopresult);
 	}else if (burl.startsWith("magnet")){
@@ -170,47 +180,14 @@ d.forEach(function(it){
 		liste.push(loopresult);
 	}
 });
-if (false){
-d = pdfa(html, 'div:has(>div#post_content) div.widget:has(>h3)');
-d.forEach(function(it){
-	let index = pdfh(it, 'h3&&Text');
-	let burl = pd(it, 'a&&href', HOST);
-	let title = pdfh(it, 'a&&Text');
-	log('xb6v title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-	log('xb6v burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-	let m3u8_html = request(burl);
-	let playerUrl = pd(m3u8_html, 'div.video&&iframe&&src', HOST);
-	log('xb6v playerUrl >>>>>>>>>>>>>>>>>>>>>>>>>>' + playerUrl);
-	if (!listm3u8.hasOwnProperty(index)){
-		listm3u8[index] = [];
-	}
-	let loopresult = title + '$' + ' ';
-	if (/(\\/player\\/|\\/share\\/)/.test(playerUrl)){
-		let player_html = request(playerUrl);
-		let m3u8Url="";
-		try{
-			m3u8Url = player_html.match(/'([^']*.m3u8)'/)[1];
-		}catch(e){
-			try{
-				m3u8Url = player_html.match(/"([^"]*.m3u8)"/)[1];
-			}catch(e){
-				m3u8Url = "";
-			}
-		}
-		if (m3u8Url !== ""){
-			m3u8Url = urljoin2(playerUrl, m3u8Url);
-			log('xb6v m3u8Url >>>>>>>>>>>>>>>>>>>>>>>>>>' + m3u8Url);
-			loopresult = title + '$' + m3u8Url;
-		}
-	}
-	listm3u8[index].push(loopresult);
-});
-}
 if (listm.length>0){
 	LISTS.push(listm);
 }
 if (liste.length>0){
 	LISTS.push(liste);
+}
+if (false && lista.length + listq.length > 1){
+	LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
 }
 lista.forEach(function(it){
 	LISTS.push([it]);
@@ -242,9 +219,9 @@ let search_html = request( HOST + '/e/search/index.php', _fetch_params, true);
 let d=[];
 let dlist = pdfa(search_html, 'div.mainleft&&ul#post_container&&li');
 dlist.forEach(function(it){
-	let title = pdfh(it, 'div.thumbnail img&&alt');
+	let title = pdfh(it, 'div.thumbnail img&&alt').replace( /(<([^>]+)>)/ig, '');
 	if (searchObj.quick === true){
-		if (title.includes(KEY)){
+		if (false && title.includes(KEY)){
 			title = KEY;
 		}
 	}

@@ -19,8 +19,8 @@ var rule = {
 		'Referer': 'https://www.meijumi.net/'
 	},
 	timeout:5000,
-	class_name:'最近更新&美剧&灵异/惊悚&魔幻/科幻&罪案/动作谍战&剧情/历史&喜剧&律政/医务&动漫/动画&纪录片&综艺',
-	class_url:'news&usa&usa/xuanyi&usa/mohuan&usa/zuian&usa/qinggan&usa/xiju&usa/yiwu&usa/katong&usa/jilu&usa',
+	class_name:'最近更新&美剧&灵异/惊悚&魔幻/科幻&罪案/动作谍战&剧情/历史&喜剧&律政/医务&动漫/动画&纪录片&综艺/真人秀&英剧&韩剧',
+	class_url:'news&usa&usa/xuanyi&usa/mohuan&usa/zuian&usa/qinggan&usa/xiju&usa/yiwu&usa/katong&usa/jilu&usa/zongyi&en&hanju',
 	play_parse:true,
 	play_json:[{
 		re:'*',
@@ -189,7 +189,7 @@ playGroups.forEach(function (it) {
 				haveDelay = true;
 				TABS.push("選擇右側綫路");
 			}
-			TABS.push("夸克雲盤" + groupIndex);
+			TABS.push("夸克網盤" + groupIndex);
 		}
 		groupIndex = groupIndex + 1;
 	}
